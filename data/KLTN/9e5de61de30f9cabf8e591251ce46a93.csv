@@ -1,0 +1,42 @@
+Mã HP,Tên HP,Điểm,Số TC
+CS100,Tin đại cương,5.0,2
+CS121,Ngôn ngữ lập trình,8.3,3
+CS122,Lập trình hướng đối tượng,5.3,3
+EC101,Kinh tế học đại cương,6.4,3
+GE101,Tiếng Anh sơ cấp 1,7.6,2
+GE102,Tiếng Anh sơ cấp 2,8.6,2
+GE103,Tiếng Anh sơ cấp 3,6.6,2
+GE201,Tiếng Anh sơ trung cấp 1,5.0,2
+GE202,Tiếng Anh sơ trung cấp 2,5.7,2
+GE205,Tiếng Anh sơ trung cấp 3,6.5,2
+GE301,Tiếng Anh trung cấp 1,5.0,2
+GE303,Tiếng Anh trung cấp 2,6.6,2
+GE305,Tiếng Anh trung cấp 3,-1.0,2
+GJ101,Tiếng Nhật 1,7.4,2
+GJ102,Tiếng Nhật 2,5.0,2
+MA101,"Logic, suy luận toán học và kỹ thuật đếm",5.7,3
+MA104,Số và cấu trúc đại số,-1.0,3
+MI322,Trí tuệ nhân tạo và công nghệ tri thức,2.5,3
+ML111,Triết học Mác – Lênin,6.6,2
+ML112,Kinh tế chính trị và CNXH khoa học,5.9,3
+ML202,Tư tưởng Hồ Chí Minh,8.7,2
+ML204,Lịch sử Đảng,8.1,2
+NA151,Khoa học môi trường,7.9,2
+PG100,Giáo dục thể chất,7.7,4
+PG121,Giáo dục quốc phòng,6.9,4
+SH131,Pháp luật đại cương,6.4,2
+AD215,Ứng dụng PowerPoint,-1.0,3
+AD312,Bóng đá,8.3,4
+CF212,Cấu trúc dữ liệu,5.3,3
+CS110,Kỹ thuật số,7.6,2
+CS212,Kiến trúc máy tính,4.9,3
+CS223,Lập trình Java,1.2,3
+CS315,Nguyên lý hệ điều hành,8.7,3
+IS222,Cơ sở dữ liệu,-1.0,3
+MA110,Giải tích 1,6.9,3
+MA111,Giải tích 2,8.0,3
+MA120,Đại số tuyến tính,5.3,3
+MA231,Xác suất thống kê ứng dụng,5.0,4
+MI201,Toán rời rạc,6.3,3
+MI312,Đồ họa,1.2,2
+NW212,Mạng máy tính,5.5,2

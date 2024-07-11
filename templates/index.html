@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ứng dụng Tính GPA</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Chào mừng đến với Ứng dụng phân tích GPA!</h1>
+    <p>Ứng dụng này sẽ giúp bạn tính toán GPA một cách nhanh chóng và dễ dàng.  
+    </p>
+    
+    <h2>Dashboard</h2>
+    <div class="dashboard">
+      <div class="chart small-chart">
+        <img src="static\image\Nganh1.png" alt="Biểu đồ 8">
+      </div>
+      
+      <div class="chart big_chart">
+        <img src="static\image\lthdtvsGPA.png" alt="Biểu đồ 3">
+      </div>
+      <div class="chart big_chart">
+        <img src="static\image\TT_GPA.png" alt="Biểu đồ 6">
+      </div>
+      <div class="chart small-chart">
+        <img src="static\image\Grade_distribute.png" alt="Biểu đồ 2">
+      </div>
+      <div class="chart biger-chart">
+        <img src="static\image\csdl2.png" alt="Biểu đồ 4">
+      </div>
+      
+      <div class="chart small-chart">
+        <img src="static\image\khoa2.png" alt="Biểu đồ 1">
+      </div>
+    </div>
+    <a href="{{ url_for('nhapdiem') }}" ><button>Bắt đầu</button></a>
+  </div>
+ 
+  
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

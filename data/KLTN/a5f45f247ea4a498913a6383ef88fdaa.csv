@@ -1,0 +1,51 @@
+Mã HP,Tên HP,Điểm,Số TC
+CS100,Tin đại cương,7.3,2
+CS102,Công dân số,9.3,2
+CS121,Ngôn ngữ lập trình,8.7,3
+CS122,Lập trình hướng đối tượng,6.6,3
+CS320,Học máy,6.7,3
+CS330,Bảo mật thông tin,7.5,3
+EC102,Nhập môn kinh tế học,7.8,2
+EC204,Kinh tế vi mô,9.5,3
+EC205,Kinh tế vĩ mô,4.7,3
+GE101,Tiếng Anh sơ cấp 1,6.5,2
+GE102,Tiếng Anh sơ cấp 2,7.1,2
+GJ101,Tiếng Nhật 1,9.1,2
+GJ102,Tiếng Nhật 2,5.2,2
+IS223,Cơ sở dữ liệu và khai phá dữ liệu,8.7,3
+IS314,Hệ thống thông tin,8.0,3
+IS330,Dữ liệu lớn,8.1,2
+IS430,Công nghệ Blockchain,8.5,3
+MA101,"Logic, suy luận toán học và kỹ thuật đếm",8.5,3
+MA104,Số và cấu trúc đại số,7.3,3
+MA215,Topology,5.6,2
+MA217,Phương trình vi phân,8.7,2
+MA234,Thống Kê,7.6,2
+MA342,Giải tích lồi,9.0,3
+MI322,Trí tuệ nhân tạo và công nghệ tri thức,8.5,3
+MI332,Thực hành tính toán,3.6,3
+ML111,Triết học Mác – Lênin,9.9,2
+ML112,Kinh tế chính trị và CNXH khoa học,9.9,3
+ML202,Tư tưởng Hồ Chí Minh,10.0,2
+ML204,Lịch sử Đảng,9.4,2
+NA151,Khoa học môi trường,9.3,2
+PG100,Giáo dục thể chất,7.1,4
+PG121,Giáo dục quốc phòng,7.0,4
+SH131,Pháp luật đại cương,8.1,2
+VL101,Tiếng Việt thực hành,7.6,2
+AD216,Kỹ năng sống,9.3,3
+AD241,Dẫn chương trình (MC),9.5,3
+CF212,Cấu trúc dữ liệu,9.6,3
+IS322,Hệ quản trị cơ sở dữ liệu,6.8,3
+IS332,Phân tích thiết kế hướng đối tượng,6.6,3
+MA110,Giải tích 1,7.7,3
+MA111,Giải tích 2,7.6,3
+MA120,Đại số tuyến tính,7.8,3
+MA230,Xác suất,7.9,3
+MA313,Hàm biến phức,8.0,2
+MA323,Số học thuật toán,7.4,2
+MA340,Giải tích số,8.9,3
+MI201,Toán rời rạc,7.3,3
+MI302,Tối ưu hóa,6.1,2
+MI489,KLTN: Toán ứng dụng,0.0,6
+NW212,Mạng máy tính,5.6,2

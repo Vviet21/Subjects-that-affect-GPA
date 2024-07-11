@@ -1,0 +1,38 @@
+Mã HP,Tên HP,Điểm,Số TC
+CS100,Tin đại cương,-1.0,2
+CS102,Công dân số,8.3,2
+EC102,Nhập môn kinh tế học,4.6,2
+GE101,Tiếng Anh sơ cấp 1,7.4,2
+GE102,Tiếng Anh sơ cấp 2,6.9,2
+GE103,Tiếng Anh sơ cấp 3,7.0,2
+GE201,Tiếng Anh sơ trung cấp 1,6.0,2
+GE202,Tiếng Anh sơ trung cấp 2,6.0,2
+GE205,Tiếng Anh sơ trung cấp 3,6.4,2
+GE231,Tiếng Anh trung cấp 1,5.7,2
+GE232,Tiếng Anh trung cấp 2,-1.0,2
+GF101,Tiếng Pháp 1,6.0,2
+GF102,Tiếng Pháp 2,5.4,2
+MA101,"Logic, suy luận toán học và kỹ thuật đếm",3.3,3
+MA104,Số và cấu trúc đại số,4.6,3
+ML113,Triết học Mác - Lênin,7.4,3
+ML114,Kinh tế chính trị Mác - Lênin,8.2,2
+ML115,Chủ nghĩa xã hội khoa học,7.6,2
+ML202,Tư tưởng Hồ Chí Minh,7.0,2
+ML204,Lịch sử Đảng,5.5,2
+NA151,Khoa học môi trường,7.0,2
+PG110,GDTC: Bơi cơ bản,8.2,1
+PG113,GDTC: Bóng rổ cơ bản,7.9,1
+PG115,GDTC: Bóng chuyền cơ bản,0.0,1
+PG118,GDTC: Thể dục cơ bản,0.0,1
+PG121,Giáo dục quốc phòng,6.4,4
+SH131,Pháp luật đại cương,7.9,2
+VL101,Tiếng Việt thực hành,7.5,2
+AD213,Hát – Nhạc,10.0,3
+AD219,Nâng cao chất lượng giọng hát,0.0,4
+AD314,Nhảy hiện đại,7.9,4
+CS110,Kỹ thuật số,-1.0,2
+CS212,Kiến trúc máy tính,3.8,3
+CS315,Nguyên lý hệ điều hành,-1.0,3
+CS321,Nhập môn khoa học dữ liệu,-1.0,2
+CS425,Một số vấn đề hiện đại trong khoa học máy tính,-1.0,2
+NW212,Mạng máy tính,-1.0,2

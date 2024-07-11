@@ -1,0 +1,47 @@
+Mã HP,Tên HP,Điểm,Số TC
+CS100,Tin đại cương,6.4,2
+CS121,Ngôn ngữ lập trình,7.0,3
+CS122,Lập trình hướng đối tượng,2.6,3
+EC102,Nhập môn kinh tế học,5.0,2
+GE101,Tiếng Anh sơ cấp 1,7.3,2
+GE102,Tiếng Anh sơ cấp 2,6.6,2
+GE103,Tiếng Anh sơ cấp 3,5.8,2
+GE201,Tiếng Anh sơ trung cấp 1,6.4,2
+GE202,Tiếng Anh sơ trung cấp 2,5.0,2
+GE205,Tiếng Anh sơ trung cấp 3,5.8,2
+GE301,Tiếng Anh trung cấp 1,5.0,2
+GE303,Tiếng Anh trung cấp 2,3.7,2
+GE305,Tiếng Anh trung cấp 3,-1.0,2
+GF101,Tiếng Pháp 1,6.4,2
+GF102,Tiếng Pháp 2,8.3,2
+IM001,Kỹ năng CNTT cơ bản,5.0,0
+IS314,Hệ thống thông tin,-1.0,3
+MA101,"Logic, suy luận toán học và kỹ thuật đếm",6.2,3
+MA103,Số và cấu trúc đại số,5.2,2
+MI322,Trí tuệ nhân tạo và công nghệ tri thức,6.6,3
+ML111,Triết học Mác – Lênin,6.0,2
+ML112,Kinh tế chính trị và CNXH khoa học,7.3,3
+ML202,Tư tưởng Hồ Chí Minh,7.7,2
+ML203,Đường lối cách mạng của Đảng CS Việt Nam,8.5,3
+NA151,Khoa học môi trường,7.4,2
+PG102,GDTC: Thể dục cổ truyền cơ bản,1.5,1
+PG106,GDTC: Bóng bàn cơ bản,7.3,1
+PG113,GDTC: Bóng rổ cơ bản,5.3,1
+PG118,GDTC: Thể dục cơ bản,5.9,1
+PG121,Giáo dục quốc phòng,6.1,4
+SH131,Pháp luật đại cương,6.7,2
+VL101,Tiếng Việt thực hành,6.4,2
+CF212,Cấu trúc dữ liệu,6.7,3
+CS110,Kỹ thuật số,3.8,2
+CS212,Kiến trúc máy tính,-1.0,3
+CS224,Lập trình .Net,-1.0,3
+IS222,Cơ sở dữ liệu,5.3,3
+IS322,Hệ quản trị cơ sở dữ liệu,-1.0,3
+IS332,Phân tích thiết kế hướng đối tượng,1.7,3
+MA110,Giải tích 1,1.7,3
+MA111,Giải tích 2,5.0,3
+MA120,Đại số tuyến tính,2.6,3
+MA231,Xác suất thống kê ứng dụng,5.0,4
+MI201,Toán rời rạc,2.0,3
+SE302,Công nghệ phần mềm,8.2,2
+SM201,Phương pháp luận nghiên cứu khoa học,8.7,3

@@ -1,0 +1,1221 @@
+Khóa,Mã HP,Tên HP,Số TC,Ngành,Kiểu môn
+24,MA102,Toán cơ sở,3,TI,1
+24,CS100,Tin đại cương,2,TI,1
+24,MA110,Giải tích 1,3,TI,1
+24,MA111,Giải tích 2,3,TI,1
+24,MA120,Đại số tuyến tính,3,TI,1
+24,MA231,Xác suất thống kê ứng dụng,3,TI,1
+24,MI201,Toán rời rạc,3,TI,1
+24,CF212,Cấu trúc dữ liệu,4,TI,1
+24,CS110,Kỹ thuật số 1,2,TI,1
+24,CS121,Ngôn ngữ lập trình 1,3,TI,1
+24,CS122,Ngôn ngữ lập trình 2,3,TI,1
+24,CS212,Kiến trúc máy tính,3,TI,1
+24,CS315,Nguyên lý hệ điều hành,3,TI,1
+24,IS222,Cơ sở dữ liệu,3,TI,1
+24,NW212,Mạng máy tính,2,TI,1
+24,MI311,Mã hóa và an toàn dữ liệu,2,TI,1
+24,MI312,Đồ họa,2,TI,1
+24,IS332,Phân tích thiết kế hướng đối tượng,2,TI,1
+24,SE302,Công nghệ phần mềm,2,TI,1
+24,MI321,Trí tuệ nhân tạo,3,TI,1
+24,CF301,Ngôn ngữ hình thức và Otomat,3,TI,1
+24,IS322,Hệ quản trị cơ sở dữ liệu,3,TI,1
+24,IS381,Hệ thống thông tin quản lý,3,TI,1
+24,IS424,Lập trình cơ sở dữ liệu,3,TI,1
+24,NW312,Thiết kế và quản trị mạng,3,TI,1
+24,NW322,Lập trình mạng,3,TI,1
+24,NW332,An toàn mạng,3,TI,1
+24,CS324,Kỹ thuật lập trình,2,TI,1
+24,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,3,TI,1
+24,SE422,Quản lý dự án phần mềm,3,TI,1
+24,SM201,Phương pháp luận nghiên cứu khoa học,3,TI,0
+24,CF201,Lý thuyết thuật toán,3,TI,0
+24,CS312,Lập trình hệ thống,2,TI,0
+24,CS316,Hệ điều hành Unix,3,TI,0
+24,MI414,Giao diện người máy,2,TI,0
+24,CS322,Chương trình dịch,2,TI,0
+24,CS325,Lập trình Web,3,TI,0
+24,CS223,Lập trình Java cơ bản,3,TI,0
+24,CS224,Lập trình .Net cơ bản,3,TI,0
+24,IP401,Thực tập ngành Khoa học máy tính,2,TI,1
+24,GP485,KLTN ngành Khoa học máy tính,6,TI,1
+24,CS428,CĐTN: Công nghệ Java,6,TI,1
+24,CS429,CĐTN: Công nghệ .Net,6,TI,1
+24,IS487,CĐTN: Hệ thống thông tin quản lý,6,TI,1
+24,NW439,CĐTN: An toàn mạng,6,TI,1
+24,SE487,CĐTN: Phát triển phần mềm,6,TI,1
+24,IS484,CĐTN: Cơ sở dữ liệu,6,TI,1
+24,MA102,Toán cơ sở,3,TC,1
+24,CS100,Tin đại cương,2,TC,1
+24,MA110,Giải tích 1,3,TC,1
+24,MA111,Giải tích 2,3,TC,1
+24,MA120,Đại số tuyến tính,3,TC,1
+24,MA231,Xác suất thống kê ứng dụng,3,TC,1
+24,MI201,Toán rời rạc,3,TC,1
+24,CF212,Cấu trúc dữ liệu,4,TC,1
+24,CS110,Kỹ thuật số 1,2,TC,1
+24,CS121,Ngôn ngữ lập trình 1,3,TC,1
+24,CS122,Ngôn ngữ lập trình 2,3,TC,1
+24,CS212,Kiến trúc máy tính,3,TC,1
+24,CS315,Nguyên lý hệ điều hành,3,TC,1
+24,IS222,Cơ sở dữ liệu,3,TC,1
+24,NW212,Mạng máy tính,2,TC,1
+24,CF231,Lý thuyết thông tin và mã hóa,2,TC,1
+24,CF321,Xử lý tín hiệu số,2,TC,1
+24,CS211,Kỹ thuật số 2,3,TC,1
+24,NW312,Thiết kế và quản trị mạng,3,TC,1
+24,ET220,Lý thuyết mạch,3,TC,1
+24,TC301,Hệ thống mạng viễn thông,3,TC,1
+24,TC311,Kỹ thuật truyền tin,2,TC,1
+24,TC313,Kỹ thuật truyền dẫn,3,TC,1
+24,TC314,Kỹ thuật chuyển mạch số,3,TC,1
+24,SM201,Phương pháp luận nghiên cứu khoa học,3,TC,0
+24,IS333,Phân tích thiết kế hệ thống thông tin,2,TC,0
+24,CF201,Lý thuyết thuật toán,3,TC,0
+24,MI321,Trí tuệ nhân tạo,3,TC,0
+24,NW322,Lập trình mạng,3,TC,0
+24,TC473,Quản lý mạng viễn thông,3,TC,0
+24,TC403,Mạng truy nhập,2,TC,0
+24,TC422,Thông tin di động và vệ tinh,2,TC,0
+24,NW332,An toàn mạng,3,TC,0
+24,CS411,Ứng dụng kỹ thuật vi xử lý trong đo lường  điều khiển,2,TC,0
+24,IP402,Thực tập ngành Mạng máy tính viễn thông,2,TC,1
+24,TC438,CĐTN: Chuyển mạch nhãn đa giao thức,6,TC,1
+24,TC458,CĐTN: Các giải pháp mạng đô thị,6,TC,1
+24,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TE,1
+24,CS100,Tin đại cương,2,TE,1
+24,MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",4,TE,1
+24,MA231,Xác suất thống kê ứng dụng,3,TE,1
+24,MA241,Toán tài chính,2,TE,1
+24,CS121,Ngôn ngữ lập trình 1,3,TE,1
+24,CS122,Ngôn ngữ lập trình 2,3,TE,1
+24,NW210,Hệ thống mạng máy tính,3,TE,1
+24,IS222,Cơ sở dữ liệu,3,TE,1
+24,CS223,Lập trình Java cơ bản,3,TE,1
+24,CS224,Lập trình .Net cơ bản,3,TE,1
+24,CS325,Lập trình Web,3,TE,1
+24,IS322,Hệ quản trị cơ sở dữ liệu,3,TE,1
+24,IS332,Phân tích thiết kế hướng đối tượng,2,TE,1
+24,IS333,Phân tích thiết kế hệ thống thông tin,2,TE,1
+24,IS381,Hệ thống thông tin quản lý,3,TE,1
+24,SE302,Công nghệ phần mềm,2,TE,1
+24,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,3,TE,0
+24,SE422,Quản lý dự án phần mềm,3,TE,0
+24,CS110,Kỹ thuật số 1,2,TE,0
+24,CS212,Kiến trúc máy tính,3,TE,0
+24,NW212,Mạng máy tính,2,TE,0
+24,NW312,Thiết kế và quản trị mạng,3,TE,0
+24,IP403,Thực tập ngành hệ thống thông tin quản lý,2,TE,1
+24,SE487,CĐTN: Phát triển phần mềm,6,TE,1
+24,IS487,CĐTN: Hệ thống thông tin quản lý,6,TE,1
+24,IS488,CĐTN: Hệ thống thông tin doanh nghiệp,6,TE,1
+24,IS489,CĐTN: Hệ thống thông tin ngân hàng,6,TE,1
+24,IS484,CĐTN: Cơ sở dữ liệu,6,TE,1
+24,NW439,CĐTN: An toàn mạng,6,TE,1
+25,MA102,Toán cơ sở,3,TI,1
+25,CS100,Tin đại cương,2,TI,1
+25,MA110,Giải tích 1,3,TI,1
+25,MA111,Giải tích 2,3,TI,1
+25,MA120,Đại số tuyến tính,3,TI,1
+25,MA231,Xác suất thống kê ứng dụng,4,TI,1
+25,MI201,Toán rời rạc,3,TI,1
+25,CF212,Cấu trúc dữ liệu,3,TI,1
+25,CS110,Kỹ thuật số,2,TI,1
+25,CS121,Ngôn ngữ lập trình,3,TI,1
+25,CS122,Lập trình hướng đối tượng,3,TI,1
+25,CS212,Kiến trúc máy tính,3,TI,1
+25,CS315,Nguyên lý hệ điều hành,3,TI,1
+25,IS222,Cơ sở dữ liệu,3,TI,1
+25,NW212,Mạng máy tính,2,TI,1
+25,CF301,Ngôn ngữ hình thức và Otomat,3,TI,1
+25,CF231,Lý thuyết thông tin và mã hóa,2,TI,1
+25,IS322,Hệ quản trị cơ sở dữ liệu,3,TI,1
+25,IS332,Phân tích thiết kế hướng đối tượng,3,TI,1
+25,IS381,Hệ thống thông tin quản lý,3,TI,1
+25,MI312,Đồ họa,2,TI,1
+25,MI321,Trí tuệ nhân tạo,3,TI,1
+25,NW312,Thiết kế và quản trị mạng,3,TI,1
+25,NW332,An toàn mạng,3,TI,1
+25,SE302,Công nghệ phần mềm,2,TI,1
+25,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,2,TI,1
+25,CF201,Lý thuyết thuật toán,3,TI,0
+25,CF211,Phân tích và thiết kế thuật toán,2,TI,0
+25,CS223,Lập trình Java,3,TI,0
+25,CS311,Lập trình ứng dụng di động,3,TI,0
+25,CS312,Lập trình hệ thống,3,TI,0
+25,CS316,Hệ điều hành Unix,3,TI,0
+25,CS322,Chương trình dịch,2,TI,0
+25,CS325,Lập trình Web,3,TI,0
+25,CS223,Lập trình Java,3,TI,0
+25,CS224,Lập trình .Net,3,TI,0
+25,IS206,Kỹ năng soạn thảo văn bản,3,TI,0
+25,IS207,Kỹ năng tạo báo cáo,3,TI,0
+25,IS424,Lập trình cơ sở dữ liệu,3,TI,0
+25,MI414,Giao diện người máy,2,TI,0
+25,NW322,Lập trình mạng,3,TI,0
+25,SE422,Quản lý dự án phần mềm,3,TI,0
+25,IP401,Thực tập ngành Khoa học máy tính,2,TI,1
+25,CS499,KLTN ngành Khoa học máy tính,6,TI,1
+25,IS484,CĐTN: Cơ sở dữ liệu,6,TI,1
+25,IS487,CĐTN: Hệ thống thông tin quản lý,6,TI,1
+25,NW439,CĐTN: An toàn mạng,6,TI,1
+25,SE487,CĐTN: Phát triển phần mềm,6,TI,1
+25,MA102,Toán cơ sở,3,TC,1
+25,CS100,Tin đại cương,2,TC,1
+25,MA110,Giải tích 1,3,TC,1
+25,MA111,Giải tích 2,3,TC,1
+25,MA120,Đại số tuyến tính,3,TC,1
+25,MA231,Xác suất thống kê ứng dụng,4,TC,1
+25,MI201,Toán rời rạc,3,TC,1
+25,NW212,Mạng máy tính,2,TC,1
+25,CF231,Lý thuyết thông tin và mã hóa,2,TC,1
+25,CF321,Xử lý tín hiệu số,2,TC,1
+25,CS211,Vi điều khiển và ứng dụng,3,TC,1
+25,ET220,Lý thuyết mạch,3,TC,1
+25,NW312,Thiết kế và quản trị mạng,3,TC,1
+25,NW332,An toàn mạng,3,TC,1
+25,TC311,Kỹ thuật truyền tin,3,TC,1
+25,TC313,Kỹ thuật truyền dẫn,3,TC,1
+25,TC314,Kỹ thuật kết nối mạng,3,TC,1
+25,TC315,Công nghệ mạng truyền thông,3,TC,1
+25,IS206,Kỹ năng soạn thảo văn bản,3,TC,0
+25,IS207,Kỹ năng tạo báo cáo,3,TC,0
+25,IS333,Phân tích thiết kế hệ thống thông tin,2,TC,0
+25,CS311,Lập trình ứng dụng di động,3,TC,0
+25,CS411,Ứng dụng kỹ thuật vi xử lý trong đo lường và điều khiển,2,TC,0
+25,CF201,Lý thuyết thuật toán,3,TC,0
+25,MI321,Trí tuệ nhân tạo,3,TC,0
+25,NW322,Lập trình mạng,3,TC,0
+25,TC403,Mạng truy nhập,2,TC,0
+25,TC473,Quản lý mạng viễn thông,3,TC,0
+25,IP402,Thực tập ngành Truyền thông và mạng máy tính,2,TC,1
+25,TC487,CĐTN: Truyền thông và mạng máy tính,6,TC,1
+25,MA102,Toán cơ sở,3,TE,1
+25,CS100,Tin đại cương,2,TE,1
+25,CS121,Ngôn ngữ lập trình,3,TE,1
+25,CS122,Lập trình hướng đối tượng,3,TE,1
+25,CS212,Kiến trúc máy tính,3,TE,1
+25,MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",4,TE,1
+25,MA231,Xác suất thống kê ứng dụng,4,TE,1
+25,MA241,Toán tài chính,2,TE,1
+25,NW212,Mạng máy tính,2,TE,1
+25,IS222,Cơ sở dữ liệu,3,TE,1
+25,CS223,Lập trình Java,3,TE,1
+25,CS224,Lập trình .Net,3,TE,1
+25,CS325,Lập trình Web,3,TE,1
+25,IS322,Hệ quản trị cơ sở dữ liệu,3,TE,1
+25,IS332,Phân tích thiết kế hướng đối tượng,3,TE,1
+25,IS333,Phân tích thiết kế hệ thống thông tin,2,TE,1
+25,IS381,Hệ thống thông tin quản lý,3,TE,1
+25,SE302,Công nghệ phần mềm,2,TE,1
+25,IS206,Kỹ năng soạn thảo văn bản,3,TE,0
+25,IS207,Kỹ năng tạo báo cáo,3,TE,0
+25,IS424,Lập trình cơ sở dữ liệu,3,TE,0
+25,NW312,Thiết kế và quản trị mạng,3,TE,0
+25,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,2,TE,0
+25,SE422,Quản lý dự án phần mềm,3,TE,0
+25,IP403,Thực tập ngành hệ thống thông tin quản lý,2,TE,1
+25,SE487,CĐTN: Phát triển phần mềm,6,TE,1
+25,IS487,CĐTN: Hệ thống thông tin quản lý,6,TE,1
+25,IS484,CĐTN: Cơ sở dữ liệu,6,TE,1
+25,NW439,CĐTN: An toàn mạng,6,TE,1
+26,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TI,1
+26,MA103,Số và cấu trúc đại số,2,TI,1
+26,CS100,Tin đại cương,2,TI,1
+26,MA110,Giải tích 1,3,TI,1
+26,MA111,Giải tích 2,3,TI,1
+26,MA120,Đại số tuyến tính,3,TI,1
+26,MA231,Xác suất thống kê ứng dụng,4,TI,1
+26,MI201,Toán rời rạc,3,TI,1
+26,CF212,Cấu trúc dữ liệu,3,TI,1
+26,CS110,Kỹ thuật số,2,TI,1
+26,CS121,Ngôn ngữ lập trình,3,TI,1
+26,CS122,Lập trình hướng đối tượng,3,TI,1
+26,CS212,Kiến trúc máy tính,3,TI,1
+26,CS315,Nguyên lý hệ điều hành,3,TI,1
+26,IS222,Cơ sở dữ liệu,3,TI,1
+26,NW212,Mạng máy tính,2,TI,1
+26,MI312,Đồ họa,2,TI,1
+26,MI321,Trí tuệ nhân tạo,3,TI,1
+26,CF231,Lý thuyết thông tin và mã hóa,2,TI,1
+26,CF301,Ngôn ngữ hình thức và Otomat,3,TI,1
+26,IS322,Hệ quản trị cơ sở dữ liệu,3,TI,1
+26,IS332,Phân tích thiết kế hướng đối tượng,3,TI,1
+26,IS381,Hệ thống thông tin quản lý,3,TI,1
+26,SE302,Công nghệ phần mềm,2,TI,1
+26,MI414,Giao diện người máy,2,TI,1
+26,SE422,Quản lý dự án phần mềm,3,TI,1
+26,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,3,TI,1
+26,SE380,Project,4,TI,1
+26,IS345,An toàn thông tin,2,TI,1
+26,IS346,Pháp luật và chính sách an toàn thông tin,2,TI,1
+26,CS316,Hệ điều hành Unix,3,TI,1
+26,NW312,Thiết kế và quản trị mạng,3,TI,1
+26,NW332,An toàn mạng,3,TI,1
+26,CG101,Đồ họa căn bản,2,TI,1
+26,CG102,Đồ họa vector,2,TI,1
+26,CG103,Xử lý ảnh phục vụ in ấn và Web,3,TI,1
+26,CG104,Quảng cáo và xuất bản truyền thông,3,TI,1
+26,CG201,Thiết kế Web,3,TI,1
+26,CG202,Web động và tương tác,5,TI,1
+26,CG203,Adobe  Dream Weave CS6,2,TI,1
+26,CF211,Phân tích và thiết kế thuật toán,2,TI,0
+26,CS223,Lập trình Java,3,TI,0
+26,CS224,Lập trình .Net,3,TI,0
+26,CS311,Lập trình ứng dụng di động,3,TI,0
+26,CS312,Lập trình hệ thống,3,TI,0
+26,CS325,Lập trình PHP,3,TI,0
+26,CS425,Một số vấn đề hiện đại trong khoa học máy tính,2,TI,0
+26,IS424,Lập trình cơ sở dữ liệu,3,TI,0
+26,IS333,Phân tích thiết kế hệ thống thông tin,2,TI,0
+26,IS385,Cơ sở dữ liệu phân tán,2,TI,0
+26,IP401,Thực tập ngành Khoa học máy tính,2,TI,1
+26,CS499,KLTN ngành Khoa học máy tính,6,TI,1
+26,CS428,CĐTN Công nghệ .Net,6,TI,1
+26,CS429,CĐTN Công nghệ Java,6,TI,1
+26,SE487,CĐTN: Phát triển phần mềm,6,TI,1
+26,IS484,CĐTN Cơ sở dữ liệu,6,TI,1
+26,NW439,CĐTN An toàn mạng,6,TI,1
+26,CG428,CĐTN Đồ họa quảng cáo và xuất bản truyền thông,3,TI,1
+26,CG429,CĐTN Thiết kế Web,3,TI,1
+26,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TC,1
+26,MA103,Số và cấu trúc đại số,2,TC,1
+26,CS100,Tin đại cương,2,TC,1
+26,MA110,Giải tích 1,3,TC,1
+26,MA111,Giải tích 2,3,TC,1
+26,MA120,Đại số tuyến tính,3,TC,1
+26,MA231,Xác suất thống kê ứng dụng,4,TC,1
+26,MI201,Toán rời rạc,3,TC,1
+26,CF212,Cấu trúc dữ liệu,3,TC,1
+26,CS110,Kỹ thuật số,2,TC,1
+26,CS121,Ngôn ngữ lập trình,3,TC,1
+26,CS122,Lập trình hướng đối tượng,3,TC,1
+26,CS212,Kiến trúc máy tính,3,TC,1
+26,CS315,Nguyên lý hệ điều hành,3,TC,1
+26,IS222,Cơ sở dữ liệu,3,TC,1
+26,NW212,Mạng máy tính,2,TC,1
+26,CF231,Lý thuyết thông tin và mã hóa,2,TC,1
+26,CF321,Xử lý tín hiệu số,2,TC,1
+26,CS211,Vi điều khiển và ứng dụng,3,TC,1
+26,NW312,Thiết kế và quản trị mạng,3,TC,1
+26,NW332,An toàn mạng,3,TC,1
+26,ET220,Lý thuyết mạch,3,TC,1
+26,TC311,Kỹ thuật truyền tin,3,TC,1
+26,TC313,Kỹ thuật truyền dẫn,3,TC,1
+26,TC314,Kỹ thuật kết nối mạng,3,TC,1
+26,TC315,Công nghệ mạng truyền thông,3,TC,1
+26,CS311,Lập trình ứng dụng di động,3,TC,0
+26,CS411,Ứng dụng kỹ thuật vi xử lý trong đo lường và điều khiển,2,TC,0
+26,IS333,Phân tích thiết kế hệ thống thông tin,2,TC,0
+26,NW322,Lập trình mạng,3,TC,0
+26,TC403,Mạng truy nhập,2,TC,0
+26,TC473,Quản lý mạng viễn thông,3,TC,0
+26,IP402,Thực tập ngành Truyền thông và mạng máy tính,2,TC,1
+26,TC487,CĐTN  Truyền thông và mạng máy tính,6,TC,1
+26,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TE,1
+26,CS100,Tin đại cương,2,TE,1
+26,MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",4,TE,1
+26,MA231,Xác suất thống kê ứng dụng,4,TE,1
+26,MA241,Toán tài chính,2,TE,1
+26,CS121,Ngôn ngữ lập trình,3,TE,1
+26,CS122,Lập trình hướng đối tượng,3,TE,1
+26,CS212,Kiến trúc máy tính,3,TE,1
+26,IS222,Cơ sở dữ liệu,3,TE,1
+26,NW212,Mạng máy tính,2,TE,1
+26,CS223,Lập trình Java,3,TE,1
+26,CS224,Lập trình .Net,3,TE,1
+26,CS325,Lập trình PHP,3,TE,1
+26,IS322,Hệ quản trị cơ sở dữ liệu,3,TE,1
+26,IS332,Phân tích thiết kế hướng đối tượng,3,TE,1
+26,IS333,Phân tích thiết kế hệ thống thông tin,2,TE,1
+26,IS381,Hệ thống thông tin quản lý,3,TE,1
+26,SE302,Công nghệ phần mềm,2,TE,1
+26,IS206,Kỹ năng soạn thảo văn bản,3,TE,0
+26,IS207,Ứng dụng Excel,3,TE,0
+26,IS424,Lập trình cơ sở dữ liệu,3,TE,0
+26,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,2,TE,0
+26,SE422,Quản lý dự án phần mềm,3,TE,0
+26,NW312,Thiết kế và quản trị mạng,3,TE,0
+26,IP403,Thực tập ngành hệ thống thông tin quản lý,2,TE,1
+26,IS487,CĐTN  Hệ thống thông tin quản lý,6,TE,1
+26,IS484,CĐTN  Cơ sở dữ liệu,6,TE,1
+26,SE487,CĐTN  Phát triển phần mềm,6,TE,1
+26,NW439,CĐTN  An toàn mạng,6,TE,1
+27,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TM,1
+27,MA103,Số và cấu trúc đại số,2,TM,1
+27,CS100,Tin đại cương,2,TM,1
+27,MA110,Giải tích 1,3,TM,1
+27,MA111,Giải tích 2,3,TM,1
+27,MA120,Đại số tuyến tính,3,TM,1
+27,MA231,Xác suất thống kê ứng dụng,4,TM,1
+27,MI201,Toán rời rạc,3,TM,1
+27,CF212,Cấu trúc dữ liệu,3,TM,1
+27,CS110,Kỹ thuật số,2,TM,1
+27,CS121,Ngôn ngữ lập trình,3,TM,1
+27,CS122,Lập trình hướng đối tượng,3,TM,1
+27,CS212,Kiến trúc máy tính,3,TM,1
+27,CS315,Nguyên lý hệ điều hành,3,TM,1
+27,IS222,Cơ sở dữ liệu,3,TM,1
+27,NW212,Mạng máy tính,2,TM,1
+27,MA313,Hàm biến phức,2,TM,1
+27,MA323,Số học thuật toán,2,TM,1
+27,MA340,Giải tích số,3,TM,1
+27,MI302,Tối ưu hóa,2,TM,1
+27,MI311,Mã hóa và an toàn dữ liệu,2,TM,1
+27,MI312,Đồ họa,2,TM,1
+27,MI321,Trí tuệ nhân tạo,3,TM,1
+27,MI331,Hệ thống hỗ trợ tính toán,2,TM,1
+27,CF201,Lý thuyết thuật toán,3,TM,1
+27,CF302,"Văn phạm, ngôn ngữ hình thức, otomat và chương trình dịch",3,TM,1
+27,CF303,Hệ thống TEX,2,TM,1
+27,MI414,Giao diện người máy,2,TM,1
+27,MI425,Chuyên đề cơ sở dữ liệu và trí tuệ nhân tạo 1,4,TM,1
+27,MI426,Chuyên đề cơ sở dữ liệu và trí tuệ nhân tạo 2,3,TM,1
+27,CF415,Chuyên đề cấu trúc dữ liệu và thuật toán 1,4,TM,1
+27,CF416,Chuyên đề cấu trúc dữ liệu và thuật toán 2,3,TM,1
+27,CF425,Chuyên đề xử lý tín hiệu ảnh,4,TM,1
+27,CF426,Chuyên đề xử lý tín hiệu âm thanh,3,TM,1
+27,CF321,Xử lý tín hiệu số,2,TM,1
+27,MI489,KLTN ngành Toán ứng dụng,6,TM,1
+27,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TI,1
+27,MA103,Số và cấu trúc đại số,2,TI,1
+27,CS100,Tin đại cương,2,TI,1
+27,MA110,Giải tích 1,3,TI,1
+27,MA111,Giải tích 2,3,TI,1
+27,MA120,Đại số tuyến tính,3,TI,1
+27,MA231,Xác suất thống kê ứng dụng,4,TI,1
+27,MI201,Toán rời rạc,3,TI,1
+27,CF212,Cấu trúc dữ liệu,3,TI,1
+27,CS110,Kỹ thuật số,2,TI,1
+27,CS121,Ngôn ngữ lập trình,3,TI,1
+27,CS122,Lập trình hướng đối tượng,3,TI,1
+27,CS212,Kiến trúc máy tính,3,TI,1
+27,CS315,Nguyên lý hệ điều hành,3,TI,1
+27,IS222,Cơ sở dữ liệu,3,TI,1
+27,NW212,Mạng máy tính,2,TI,1
+27,MI312,Đồ họa,2,TI,1
+27,MI321,Trí tuệ nhân tạo,3,TI,1
+27,CF231,Lý thuyết thông tin và mã hóa,2,TI,1
+27,CF301,Ngôn ngữ hình thức và Otomat,3,TI,1
+27,IS322,Hệ quản trị cơ sở dữ liệu,3,TI,1
+27,IS332,Phân tích thiết kế hướng đối tượng,3,TI,1
+27,IS381,Hệ thống thông tin quản lý,3,TI,1
+27,SE302,Công nghệ phần mềm,2,TI,1
+27,MI414,Giao diện người máy,2,TI,1
+27,SE422,Quản lý dự án phần mềm,3,TI,1
+27,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,3,TI,1
+27,SE380,Project,4,TI,1
+27,IS345,An toàn thông tin,2,TI,1
+27,IS346,Pháp luật và chính sách an toàn thông tin,2,TI,1
+27,CS316,Hệ điều hành Unix,3,TI,1
+27,NW312,Thiết kế và quản trị mạng,3,TI,1
+27,NW332,An toàn mạng,3,TI,1
+27,CF211,Phân tích và thiết kế thuật toán,2,TI,1
+27,CS223,Lập trình Java,3,TI,0
+27,CS224,Lập trình .Net,3,TI,0
+27,CS311,Lập trình ứng dụng di động,3,TI,0
+27,CS312,Lập trình hệ thống,3,TI,0
+27,CS325,Lập trình PHP,3,TI,0
+27,CS425,Một số vấn đề hiện đại trong khoa học máy tính,2,TI,0
+27,IS424,Lập trình cơ sở dữ liệu,3,TI,0
+27,IS333,Phân tích thiết kế hệ thống thông tin,2,TI,0
+27,IS385,Cơ sở dữ liệu phân tán,2,TI,0
+27,IP401,Thực tập ngành Khoa học máy tính,2,TI,1
+27,CS499,KLTN ngành Khoa học máy tính,6,TI,1
+27,CS428,CĐTN Công nghệ .Net,6,TI,1
+27,CS429,CĐTN Công nghệ Java,6,TI,1
+27,SE487,CĐTN: Phát triển phần mềm,6,TI,1
+27,IS484,CĐTN Cơ sở dữ liệu,6,TI,1
+27,NW439,CĐTN An toàn mạng,6,TI,1
+27,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TC,1
+27,MA103,Số và cấu trúc đại số,2,TC,1
+27,CS100,Tin đại cương,2,TC,1
+27,MA110,Giải tích 1,3,TC,1
+27,MA111,Giải tích 2,3,TC,1
+27,MA120,Đại số tuyến tính,3,TC,1
+27,MA231,Xác suất thống kê ứng dụng,4,TC,1
+27,MI201,Toán rời rạc,3,TC,1
+27,CF212,Cấu trúc dữ liệu,3,TC,1
+27,CS110,Kỹ thuật số,2,TC,1
+27,CS121,Ngôn ngữ lập trình,3,TC,1
+27,CS122,Lập trình hướng đối tượng,3,TC,1
+27,CS212,Kiến trúc máy tính,3,TC,1
+27,CS315,Nguyên lý hệ điều hành,3,TC,1
+27,IS222,Cơ sở dữ liệu,3,TC,1
+27,NW212,Mạng máy tính,2,TC,1
+27,CF231,Lý thuyết thông tin và mã hóa,2,TC,1
+27,CF321,Xử lý tín hiệu số,2,TC,1
+27,CS211,Vi điều khiển và ứng dụng,3,TC,1
+27,NW312,Thiết kế và quản trị mạng,3,TC,1
+27,NW332,An toàn mạng,3,TC,1
+27,ET220,Lý thuyết mạch,3,TC,1
+27,TC311,Kỹ thuật truyền tin,3,TC,1
+27,TC313,Kỹ thuật truyền dẫn,3,TC,1
+27,TC314,Kỹ thuật kết nối mạng,3,TC,1
+27,TC315,Công nghệ mạng truyền thông,3,TC,1
+27,CS311,Lập trình ứng dụng di động,3,TC,1
+27,CS411,Ứng dụng kỹ thuật vi xử lý trong đo lường và điều khiển,2,TC,1
+27,IS333,Phân tích thiết kế hệ thống thông tin,2,TC,1
+27,NW322,Lập trình mạng,3,TC,1
+27,TC403,Mạng truy nhập,2,TC,1
+27,TC473,Quản lý mạng viễn thông,3,TC,1
+27,IP402,Thực tập ngành Truyền thông và mạng máy tính,2,TC,1
+27,TC487,CĐTNTruyền thông và mạng máy tính,6,TC,1
+27,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TE,1
+27,CS100,Tin đại cương,2,TE,1
+27,MA110,Giải tích 1,3,TE,1
+27,MA111,Giải tích 2,3,TE,1
+27,MA120,Đại số tuyến tính,3,TE,1
+27,MA231,Xác suất thống kê ứng dụng,4,TE,1
+27,MI201,Toán rời rạc,3,TE,1
+27,CF212,Cấu trúc dữ liệu,3,TE,1
+27,CS110,Kỹ thuật số,2,TE,1
+27,CS121,Ngôn ngữ lập trình,3,TE,1
+27,CS122,Lập trình hướng đối tượng,3,TE,1
+27,CS212,Kiến trúc máy tính,3,TE,1
+27,CS315,Nguyên lý hệ điều hành,3,TE,1
+27,IS222,Cơ sở dữ liệu,3,TE,1
+27,NW212,Mạng máy tính,2,TE,1
+27,IS314,Cơ bản về hệ thống thông tin,3,TE,1
+27,IS322,Hệ quản trị cơ sở dữ liệu,3,TE,1
+27,IS326,Khai phá dữ liệu,3,TE,1
+27,IS315,Mô hình hóa quy trình nghiệp vụ,2,TE,1
+27,IS332,Phân tích thiết kế hướng đối tượng,3,TE,1
+27,IS334,Thực hành phân tích thiết kế hệ thống thông tin,3,TE,1
+27,SE302,Công nghệ phần mềm,2,TE,1
+27,IS383,Hệ thống thông tin nâng cao,2,TE,1
+27,SE320,Quản lý dự án công nghệ thông tin,3,TE,1
+27,IS320,Thực hành quản lý dự án hệ thống thông tin,3,TE,1
+27,IS316,Hạ tầng hệ thống thông tin,3,TE,1
+27,IS480,Kiến trúc doanh nghiệp,3,TE,1
+27,CS223,Lập trình Java,3,TE,0
+27,CS224,Lập trình .Net,3,TE,0
+27,CS325,Lập trình PHP,3,TE,0
+27,IS333,Phân tích thiết kế hệ thống thông tin,2,TE,0
+27,IS327,Nhà kho dữ liệu,3,TE,0
+27,IS328,Cơ sở dữ liệu nâng cao,3,TE,0
+27,IS384,Các vấn đề hiện đại về hệ thống thông tin,3,TE,0
+27,IS481,Quản lý hệ thống thông tin chiến lược,3,TE,0
+27,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,2,TE,0
+27,NW312,Thiết kế và quản trị mạng,3,TE,0
+27,IP403,Thực tập ngành hệ thống thông tin,2,TE,1
+27,IS499,KLTN ngành Hệ thống thông tin,6,TE,1
+28,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TI,1
+28,MA103,Số và cấu trúc đại số,2,TI,1
+28,CS100,Tin đại cương,2,TI,1
+28,SM201,Phương pháp luận nghiên cứu khoa học,3,TI,1
+28,MA110,Giải tích 1,3,TI,1
+28,MA111,Giải tích 2,3,TI,1
+28,MA120,Đại số tuyến tính,3,TI,1
+28,MA231,Xác suất thống kê ứng dụng,4,TI,1
+28,MI201,Toán rời rạc,3,TI,1
+28,CF212,Cấu trúc dữ liệu,3,TI,1
+28,CS110,Kỹ thuật số,2,TI,1
+28,CS121,Ngôn ngữ lập trình,3,TI,1
+28,CS122,Lập trình hướng đối tượng,3,TI,1
+28,CS212,Kiến trúc máy tính,3,TI,1
+28,CS315,Nguyên lý hệ điều hành,3,TI,1
+28,IS222,Cơ sở dữ liệu,3,TI,1
+28,NW212,Mạng máy tính,2,TI,1
+28,MI312,Đồ họa,2,TI,1
+28,MI321,Trí tuệ nhân tạo,3,TI,1
+28,CF231,Lý thuyết thông tin và mã hóa,2,TI,1
+28,CF301,Ngôn ngữ hình thức và Otomat,3,TI,1
+28,IS322,Hệ quản trị cơ sở dữ liệu,3,TI,1
+28,IS332,Phân tích thiết kế hướng đối tượng,3,TI,1
+28,IS381,Hệ thống thông tin quản lý,3,TI,1
+28,SE302,Công nghệ phần mềm,2,TI,1
+28,MI414,Giao diện người máy,2,TI,1
+28,SE422,Quản lý dự án phần mềm,3,TI,1
+28,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,3,TI,1
+28,SE380,Project,4,TI,1
+28,IS345,An toàn thông tin,2,TI,1
+28,IS346,Pháp luật và chính sách an toàn thông tin,2,TI,1
+28,CS316,Hệ điều hành Unix,3,TI,1
+28,NW312,Thiết kế và quản trị mạng,3,TI,1
+28,NW332,An toàn mạng,3,TI,1
+28,CF211,Phân tích và thiết kế thuật toán,2,TI,0
+28,CS223,Lập trình Java,3,TI,0
+28,CS224,Lập trình .Net,3,TI,0
+28,CS311,Lập trình ứng dụng di động,3,TI,0
+28,CS312,Lập trình hệ thống,3,TI,0
+28,CS325,Lập trình PHP,3,TI,0
+28,CS425,Một số vấn đề hiện đại trong khoa học máy tính,2,TI,0
+28,IS424,Lập trình cơ sở dữ liệu,3,TI,0
+28,IS333,Phân tích thiết kế hệ thống thông tin,2,TI,0
+28,IS385,Cơ sở dữ liệu phân tán,2,TI,0
+28,IP401,Thực tập ngành Khoa học máy tính,2,TI,1
+28,CS499,KLTN: ngành Khoa học máy tính,6,TI,1
+28,CS428,CĐTN: Công nghệ .Net,6,TI,1
+28,CS429,CĐTN: Công nghệ Java,6,TI,1
+28,SE487,CĐTN: Phát triển phần mềm,6,TI,1
+28,IS484,CĐTN: Cơ sở dữ liệu,6,TI,1
+28,NW439,CĐTN: An toàn mạng,6,TI,1
+28,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TC,1
+28,MA103,Số và cấu trúc đại số,2,TC,1
+28,CS100,Tin đại cương,2,TC,1
+28,SM201,Phương pháp luận nghiên cứu khoa học,3,TC,1
+28,MA110,Giải tích 1,3,TC,1
+28,MA111,Giải tích 2,3,TC,1
+28,MA120,Đại số tuyến tính,3,TC,1
+28,MA231,Xác suất thống kê ứng dụng,4,TC,1
+28,MI201,Toán rời rạc,3,TC,1
+28,CF212,Cấu trúc dữ liệu,3,TC,1
+28,CS110,Kỹ thuật số,2,TC,1
+28,CS121,Ngôn ngữ lập trình,3,TC,1
+28,CS122,Lập trình hướng đối tượng,3,TC,1
+28,CS212,Kiến trúc máy tính,3,TC,1
+28,CS315,Nguyên lý hệ điều hành,3,TC,1
+28,IS222,Cơ sở dữ liệu,3,TC,1
+28,NW212,Mạng máy tính,2,TC,1
+28,CF231,Lý thuyết thông tin và mã hóa,2,TC,1
+28,CF321,Xử lý tín hiệu số,2,TC,1
+28,CS211,Vi điều khiển và ứng dụng,3,TC,1
+28,NW312,Thiết kế và quản trị mạng,3,TC,1
+28,NW332,An toàn mạng,3,TC,1
+28,ET220,Lý thuyết mạch,3,TC,1
+28,TC311,Kỹ thuật truyền tin,3,TC,1
+28,TC313,Kỹ thuật truyền dẫn,3,TC,1
+28,TC314,Kỹ thuật kết nối mạng,3,TC,1
+28,TC315,Công nghệ mạng truyền thông,3,TC,1
+28,CS311,Lập trình ứng dụng di động,3,TC,0
+28,CS411,Ứng dụng kỹ thuật vi xử lý trong đo lường và điều khiển,2,TC,0
+28,IS333,Phân tích thiết kế hệ thống thông tin,2,TC,0
+28,NW322,Lập trình mạng,3,TC,0
+28,TC403,Mạng truy nhập,2,TC,0
+28,TC419,Thực hành chuyên ngành,3,TC,0
+28,TC473,Quản lý mạng viễn thông,3,TC,0
+28,IP102,Thực tập ngành Truyền thông và mạng máy tính,2,TC,1
+28,TC499,KLTN : Ngành Truyền thông và mạng máy tính,6,TC,1
+28,TC487,CĐTN : Truyền thông và mạng máy tính,6,TC,1
+28,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TE,1
+28,MA103,Số và cấu trúc đại số,2,TE,1
+28,CS100,Tin đại cương,2,TE,1
+28,SM201,Phương pháp luận nghiên cứu khoa học,3,TE,1
+28,MA110,Giải tích 1,3,TE,1
+28,MA111,Giải tích 2,3,TE,1
+28,MA120,Đại số tuyến tính,3,TE,1
+28,MA231,Xác suất thống kê ứng dụng,4,TE,1
+28,MI201,Toán rời rạc,3,TE,1
+28,CF212,Cấu trúc dữ liệu,3,TE,1
+28,CS110,Kỹ thuật số,2,TE,1
+28,CS121,Ngôn ngữ lập trình,3,TE,1
+28,CS122,Lập trình hướng đối tượng,3,TE,1
+28,CS212,Kiến trúc máy tính,3,TE,1
+28,CS315,Nguyên lý hệ điều hành,3,TE,1
+28,IS222,Cơ sở dữ liệu,3,TE,1
+28,NW212,Mạng máy tính,2,TE,1
+28,IS314,Cơ bản về hệ thống thông tin,3,TE,1
+28,IS322,Hệ quản trị cơ sở dữ liệu,3,TE,1
+28,IS326,Khai phá dữ liệu,3,TE,1
+28,IS315,Mô hình hóa quy trình nghiệp vụ,2,TE,1
+28,IS332,Phân tích thiết kế hướng đối tượng,3,TE,1
+28,IS334,Thực hành phân tích thiết kế hệ thống thông tin,3,TE,1
+28,SE302,Công nghệ phần mềm,2,TE,1
+28,IS383,Hệ thống thông tin nâng cao,2,TE,1
+28,SE320,Quản lý dự án công nghệ thông tin,3,TE,1
+28,IS320,Thực hành quản lý dự án hệ thống thông tin,3,TE,1
+28,IS316,Hạ tầng hệ thống thông tin,3,TE,1
+28,IS480,Kiến trúc doanh nghiệp,3,TE,1
+28,CS223,Lập trình Java,3,TE,0
+28,CS224,Lập trình .Net,3,TE,0
+28,CS325,Lập trình PHP,3,TE,0
+28,IS333,Phân tích thiết kế hệ thống thông tin,2,TE,0
+28,IS327,Kho dữ liệu,3,TE,0
+28,IS328,Cơ sở dữ liệu nâng cao,3,TE,0
+28,IS384,Các vấn đề hiện đại về hệ thống thông tin,3,TE,0
+28,IS424,Lập trình cơ sở dữ liệu,3,TE,0
+28,IS481,Quản lý hệ thống thông tin chiến lược,3,TE,0
+28,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,3,TE,0
+28,NW312,Thiết kế và quản trị mạng,3,TE,0
+28,IS206,Kỹ năng soạn thảo văn bản,3,TE,0
+28,AD201,Kỹ năng giao tiếp và thuyết trình,2,TE,0
+28,IP403,Thực tập ngành Hệ thống thông tin,2,TE,1
+28,IS499,KLTN ngành Hệ thống thông tin,6,TE,1
+29,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TI,1
+29,MA103,Số và cấu trúc đại số,2,TI,1
+29,CS100,Tin đại cương,2,TI,1
+29,SM201,Phương pháp luận nghiên cứu khoa học,3,TI,1
+29,MA110,Giải tích 1,3,TI,1
+29,MA111,Giải tích 2,3,TI,1
+29,MA120,Đại số tuyến tính,3,TI,1
+29,MA231,Xác suất thống kê ứng dụng,4,TI,1
+29,MI201,Toán rời rạc,3,TI,1
+29,CF212,Cấu trúc dữ liệu,3,TI,1
+29,CS110,Kỹ thuật số,2,TI,1
+29,CS121,Ngôn ngữ lập trình,3,TI,1
+29,CS122,Lập trình hướng đối tượng,3,TI,1
+29,CS212,Kiến trúc máy tính,3,TI,1
+29,CS315,Nguyên lý hệ điều hành,3,TI,1
+29,IS222,Cơ sở dữ liệu,3,TI,1
+29,NW212,Mạng máy tính,2,TI,1
+29,CF231,Lý thuyết thông tin và mã hóa,2,TI,1
+29,CF301,Ngôn ngữ hình thức và Otomat,3,TI,1
+29,IS314,Hệ thống thông tin,3,TI,1
+29,IS322,Hệ quản trị cơ sở dữ liệu,3,TI,1
+29,IS332,Phân tích thiết kế hướng đối tượng,3,TI,1
+29,MI312,Đồ họa,2,TI,1
+29,MI321,Trí tuệ nhân tạo,3,TI,1
+29,SE302,Công nghệ phần mềm,2,TI,1
+29,SE422,Quản lý dự án phần mềm,3,TI,1
+29,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,3,TI,1
+29,SE380,Project,3,TI,1
+29,IS345,An toàn thông tin,3,TI,1
+29,NW312,Thiết kế và quản trị mạng,3,TI,1
+29,NW332,An toàn mạng,3,TI,1
+29,CF211,Phân tích và thiết kế thuật toán,2,TI,0
+29,CS223,Lập trình Java,3,TI,0
+29,CS224,Lập trình .Net,3,TI,0
+29,CS311,Lập trình ứng dụng di động,2,TI,0
+29,CS312,Lập trình hệ thống,3,TI,0
+29,CS316,Hệ điều hành Unix,3,TI,0
+29,CS325,Lập trình PHP,3,TI,0
+29,CS425,Một số vấn đề hiện đại trong khoa học máy tính,2,TI,0
+29,IS424,Lập trình cơ sở dữ liệu,3,TI,0
+29,IS333,Phân tích thiết kế hệ thống thông tin,2,TI,0
+29,IS325,Cơ sở dữ liệu phân tán,2,TI,0
+29,IS383,Hệ thống thông tin nâng cao,2,TI,0
+29,MI414,Giao diện người máy,2,TI,0
+29,IP401,Thực tập ngành Khoa học máy tính,2,TI,1
+29,CS499,KLTN ngành Khoa học máy tính,6,TI,1
+29,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TC,1
+29,MA103,Số và cấu trúc đại số,2,TC,1
+29,CS100,Tin đại cương,2,TC,1
+29,SM201,Phương pháp luận nghiên cứu khoa học,3,TC,1
+29,MA110,Giải tích 1,3,TC,1
+29,MA111,Giải tích 2,3,TC,1
+29,MA120,Đại số tuyến tính,3,TC,1
+29,MA231,Xác suất thống kê ứng dụng,4,TC,1
+29,MI201,Toán rời rạc,3,TC,1
+29,CF212,Cấu trúc dữ liệu,3,TC,1
+29,CS110,Kỹ thuật số,2,TC,1
+29,CS121,Ngôn ngữ lập trình,3,TC,1
+29,CS122,Lập trình hướng đối tượng,3,TC,1
+29,CS212,Kiến trúc máy tính,3,TC,1
+29,CS315,Nguyên lý hệ điều hành,3,TC,1
+29,IS222,Cơ sở dữ liệu,3,TC,1
+29,NW212,Mạng máy tính,2,TC,1
+29,CF231,Lý thuyết thông tin và mã hóa,2,TC,1
+29,CF320,Tín hiệu và hệ thống,2,TC,1
+29,CF321,Xử lý tín hiệu số,3,TC,1
+29,MA300,Toán chuyên ngành,3,TC,1
+29,TC300,Mô hình hóa và mô phỏng,3,TC,1
+29,NW312,Thiết kế và quản trị mạng,3,TC,1
+29,TC313,Kỹ thuật truyền dẫn,3,TC,1
+29,TC314,Kỹ thuật kết nối mạng,3,TC,1
+29,TC316,An ninh mạng truyền thông,3,TC,1
+29,TC473,Quản lý mạng viễn thông,3,TC,1
+29,TC411,Mạng không dây đa bước,3,TC,0
+29,TC412,Báo hiệu và điều khiển,3,TC,0
+29,TC413,Chất lượng dịch vụ mạng,3,TC,0
+29,TC414,Tính toán đám mây,3,TC,0
+29,TC415,Mạng cảm biến,3,TC,0
+29,TC416,Internet thế hệ mới,3,TC,0
+29,TC417,Vô tuyến nhận thức,3,TC,0
+29,TC418,Lập trình nhúng,3,TC,0
+29,TC420,Thiết kế hệ thống,3,TC,0
+29,TC421,Dữ liệu lớn,3,TC,0
+29,NW322,Lập trình mạng,3,TC,0
+29,CS311,Lập trình ứng dụng di động,3,TC,0
+29,IP402,Thực tập ngành Truyền thông và mạng máy tính,3,TC,1
+29,TC499,KLTN ngành Truyền thông và mạng máy tính,6,TC,1
+29,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TE,1
+29,MA103,Số và cấu trúc đại số,2,TE,1
+29,CS100,Tin đại cương,2,TE,1
+29,SM201,Phương pháp luận nghiên cứu khoa học,3,TE,1
+29,MA110,Giải tích 1,3,TE,1
+29,MA111,Giải tích 2,3,TE,1
+29,MA120,Đại số tuyến tính,3,TE,1
+29,MA231,Xác suất thống kê ứng dụng,4,TE,1
+29,MI201,Toán rời rạc,3,TE,1
+29,CF212,Cấu trúc dữ liệu,3,TE,1
+29,CS110,Kỹ thuật số,2,TE,1
+29,CS121,Ngôn ngữ lập trình,3,TE,1
+29,CS122,Lập trình hướng đối tượng,3,TE,1
+29,CS212,Kiến trúc máy tính,3,TE,1
+29,CS315,Nguyên lý hệ điều hành,3,TE,1
+29,IS222,Cơ sở dữ liệu,3,TE,1
+29,NW212,Mạng máy tính,2,TE,1
+29,IS314,Hệ thống thông tin,3,TE,1
+29,IS315,Mô hình hóa quy trình nghiệp vụ,2,TE,1
+29,IS316,Hạ tầng hệ thống thông tin,3,TE,1
+29,IS322,Hệ quản trị cơ sở dữ liệu,3,TE,1
+29,IS332,Phân tích thiết kế hướng đối tượng,3,TE,1
+29,IS334,Quản lý dự án hệ thống thông tin,3,TE,1
+29,IS383,Hệ thống thông tin nâng cao,2,TE,1
+29,IS480,Kiến trúc doanh nghiệp,3,TE,1
+29,SE302,Công nghệ phần mềm,2,TE,1
+29,IS325,Cơ sở dữ liệu phân tán,2,TE,1
+29,IS326,Khai phá dữ liệu,3,TE,1
+29,IS327,Kho dữ liệu,3,TE,1
+29,IS333,Phân tích thiết kế hệ thống thông tin,2,TE,1
+29,IS335,Phát triển ứng dụng doanh nghiệp,3,TE,1
+29,IS336,Triển khai và kiểm soát hệ thống thông tin doanh nghiệp,3,TE,1
+29,SC201,Kỹ năng giao tiếp và thuyết trình,2,TE,0
+29,CS223,Lập trình Java,3,TE,0
+29,CS224,Lập trình .Net,3,TE,0
+29,CS325,Lập trình PHP,3,TE,0
+29,IS345,An toàn thông tin,3,TE,0
+29,IS384,Một số vấn đề hiện đại về hệ thống thông tin,3,TE,0
+29,IS424,Lập trình cơ sở dữ liệu,3,TE,0
+29,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,3,TE,0
+29,IP403,Thực tập ngành Hệ thống thông tin,2,TE,1
+29,IS499,KLTN ngành Hệ thống thông tin,6,TE,1
+30,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TI,1
+30,MA103,Số và cấu trúc đại số,2,TI,1
+30,CS100,Tin đại cương,2,TI,1
+30,SM201,Phương pháp luận nghiên cứu khoa học,3,TI,1
+30,MA110,Giải tích 1,3,TI,1
+30,MA111,Giải tích 2,3,TI,1
+30,MA120,Đại số tuyến tính,3,TI,1
+30,MA231,Xác suất thống kê ứng dụng,4,TI,1
+30,MI201,Toán rời rạc,3,TI,1
+30,CF212,Cấu trúc dữ liệu,3,TI,1
+30,CS110,Kỹ thuật số,2,TI,1
+30,CS121,Ngôn ngữ lập trình,3,TI,1
+30,CS122,Lập trình hướng đối tượng,3,TI,1
+30,CS212,Kiến trúc máy tính,3,TI,1
+30,CS315,Nguyên lý hệ điều hành,3,TI,1
+30,IS222,Cơ sở dữ liệu,3,TI,1
+30,NW212,Mạng máy tính,2,TI,1
+30,CF231,Lý thuyết thông tin và mã hóa,2,TI,1
+30,CF301,Ngôn ngữ hình thức và Otomat,3,TI,1
+30,IS314,Hệ thống thông tin,3,TI,1
+30,IS322,Hệ quản trị cơ sở dữ liệu,3,TI,1
+30,IS332,Phân tích thiết kế hướng đối tượng,3,TI,1
+30,MI312,Đồ họa,2,TI,1
+30,MI321,Trí tuệ nhân tạo,3,TI,1
+30,SE302,Công nghệ phần mềm,2,TI,1
+30,SE422,Quản lý dự án phần mềm,3,TI,1
+30,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,3,TI,1
+30,SE380,Project,3,TI,1
+30,IS345,An toàn thông tin,3,TI,1
+30,NW312,Thiết kế và quản trị mạng,3,TI,1
+30,NW332,An toàn mạng,3,TI,1
+30,CF211,Phân tích và thiết kế thuật toán,2,TI,0
+30,CS223,Lập trình Java,3,TI,0
+30,CS224,Lập trình .Net,3,TI,0
+30,CS311,Lập trình ứng dụng di động,2,TI,0
+30,CS312,Lập trình hệ thống,3,TI,0
+30,CS316,Hệ điều hành Unix,3,TI,0
+30,CS325,Lập trình PHP,3,TI,0
+30,CS425,Một số vấn đề hiện đại trong khoa học máy tính,2,TI,0
+30,IS424,Lập trình cơ sở dữ liệu,3,TI,0
+30,IS333,Phân tích thiết kế hệ thống thông tin,2,TI,0
+30,IS325,Cơ sở dữ liệu phân tán,2,TI,0
+30,IS383,Hệ thống thông tin nâng cao,2,TI,0
+30,MI414,Giao diện người máy,2,TI,0
+30,IP401,Thực tập ngành Khoa học máy tính,2,TI,1
+30,CS499,KLTN ngành Khoa học máy tính,6,TI,1
+30,IS484,CĐTN: Cơ sở dữ liệu,6,TI,1
+30,NW439,CĐTN: An toàn mạng,6,TI,1
+30,SE487,CĐTN: Phát triển phần mềm,6,TI,1
+30,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TC,1
+30,MA103,Số và cấu trúc đại số,2,TC,1
+30,CS100,Tin đại cương,2,TC,1
+30,SM201,Phương pháp luận nghiên cứu khoa học,3,TC,1
+30,MA110,Giải tích 1,3,TC,1
+30,MA111,Giải tích 2,3,TC,1
+30,MA120,Đại số tuyến tính,3,TC,1
+30,MA231,Xác suất thống kê ứng dụng,4,TC,1
+30,MI201,Toán rời rạc,3,TC,1
+30,CF212,Cấu trúc dữ liệu,3,TC,1
+30,CS110,Kỹ thuật số,2,TC,1
+30,CS121,Ngôn ngữ lập trình,3,TC,1
+30,CS122,Lập trình hướng đối tượng,3,TC,1
+30,CS212,Kiến trúc máy tính,3,TC,1
+30,CS315,Nguyên lý hệ điều hành,3,TC,1
+30,IS222,Cơ sở dữ liệu,3,TC,1
+30,NW212,Mạng máy tính,2,TC,1
+30,CF231,Lý thuyết thông tin và mã hóa,2,TC,1
+30,CF320,Tín hiệu và hệ thống,3,TC,1
+30,CF321,Xử lý tín hiệu số,3,TC,1
+30,MA300,Toán chuyên ngành truyền thông và mạng máy tính,3,TC,1
+30,TC300,Mô hình hóa và mô phỏng,3,TC,1
+30,TC303,Thiết kế và quản trị mạng truyền thông,3,TC,1
+30,TC313,Kỹ thuật truyền dẫn,3,TC,1
+30,TC314,Kỹ thuật kết nối mạng,3,TC,1
+30,TC316,An ninh mạng truyền thông,3,TC,1
+30,TC473,Quản lý mạng viễn thông,3,TC,1
+30,TC411,Mạng không dây đa bước,2,TC,0
+30,TC412,Báo hiệu và điều khiển,2,TC,0
+30,TC413,Chất lượng dịch vụ mạng,2,TC,0
+30,TC414,Tính toán đám mây,2,TC,0
+30,TC415,Mạng cảm biến,2,TC,0
+30,TC416,Internet thế hệ mới,2,TC,0
+30,TC417,Vô tuyến nhận thức,2,TC,0
+30,TC418,Lập trình nhúng,2,TC,0
+30,TC420,Thiết kế hệ thống truyền thông và mạng máy tính,2,TC,0
+30,TC421,Dữ liệu lớn,2,TC,0
+30,TC424,Quản lý dự án truyền thông và mạng máy tính,3,TC,0
+30,NW322,Lập trình mạng,2,TC,0
+30,CS311,Lập trình ứng dụng di động,2,TC,0
+30,IP402,Thực tập ngành Truyền thông và mạng máy tính,2,TC,1
+30,TC499,KLTN ngành Truyền thông và mạng máy tính,6,TC,1
+30,TC487,CĐTN: Truyền thông và mạng máy tính,6,TC,1
+30,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TE,1
+30,MA103,Số và cấu trúc đại số,2,TE,1
+30,CS100,Tin đại cương,2,TE,1
+30,SM201,Phương pháp luận nghiên cứu khoa học,3,TE,1
+30,MA110,Giải tích 1,3,TE,1
+30,MA111,Giải tích 2,3,TE,1
+30,MA120,Đại số tuyến tính,3,TE,1
+30,MA231,Xác suất thống kê ứng dụng,4,TE,1
+30,MI201,Toán rời rạc,3,TE,1
+30,CF212,Cấu trúc dữ liệu,3,TE,1
+30,CS110,Kỹ thuật số,2,TE,1
+30,CS121,Ngôn ngữ lập trình,3,TE,1
+30,CS122,Lập trình hướng đối tượng,3,TE,1
+30,CS212,Kiến trúc máy tính,3,TE,1
+30,CS315,Nguyên lý hệ điều hành,3,TE,1
+30,IS222,Cơ sở dữ liệu,3,TE,1
+30,NW212,Mạng máy tính,2,TE,1
+30,IS314,Hệ thống thông tin,3,TE,1
+30,IS315,Mô hình hóa quy trình nghiệp vụ,2,TE,1
+30,IS316,Hạ tầng hệ thống thông tin,3,TE,1
+30,IS322,Hệ quản trị cơ sở dữ liệu,3,TE,1
+30,IS332,Phân tích thiết kế hướng đối tượng,3,TE,1
+30,IS334,Quản lý dự án hệ thống thông tin,3,TE,1
+30,IS383,Hệ thống thông tin nâng cao,2,TE,1
+30,IS480,Kiến trúc doanh nghiệp,3,TE,1
+30,SE302,Công nghệ phần mềm,2,TE,1
+30,IS325,Cơ sở dữ liệu phân tán,2,TE,1
+30,IS326,Khai phá dữ liệu,3,TE,1
+30,IS327,Kho dữ liệu,3,TE,1
+30,IS333,Phân tích thiết kế hệ thống thông tin,2,TE,1
+30,IS335,Phát triển ứng dụng doanh nghiệp,3,TE,1
+30,IS336,Triển khai và kiểm soát hệ thống thông tin doanh nghiệp,3,TE,1
+30,SC201,Kỹ năng giao tiếp và thuyết trình,2,TE,0
+30,CS223,Lập trình Java,3,TE,0
+30,CS224,Lập trình .Net,3,TE,0
+30,CS325,Lập trình PHP,3,TE,0
+30,IS345,An toàn thông tin,3,TE,0
+30,IS384,Một số vấn đề hiện đại về hệ thống thông tin,3,TE,0
+30,IS424,Lập trình cơ sở dữ liệu,3,TE,0
+30,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,3,TE,0
+30,IP403,Thực tập ngành Hệ thống thông tin,2,TE,1
+30,IS499,KLTN ngành Hệ thống thông tin,6,TE,1
+30,IS484,CĐTN: Cơ sở dữ liệu,6,TE,1
+30,NW439,CĐTN: An toàn mạng,6,TE,1
+30,SE487,CĐTN: Phát triển phần mềm,6,TE,1
+31,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TI,1
+31,MA103,Số và cấu trúc đại số,2,TI,1
+31,CS100,Tin đại cương,2,TI,1
+31,SM201,Phương pháp nghiên cứu khoa học,3,TI,1
+31,MA110,Giải tích 1,3,TI,1
+31,MA111,Giải tích 2,3,TI,1
+31,MA120,Đại số tuyến tính,3,TI,1
+31,MA231,Xác suất thống kê ứng dụng,4,TI,1
+31,MI201,Toán rời rạc,3,TI,1
+31,CF212,Cấu trúc dữ liệu,3,TI,1
+31,CS110,Kỹ thuật số,2,TI,1
+31,CS121,Ngôn ngữ lập trình,3,TI,1
+31,CS122,Lập trình hướng đối tượng,3,TI,1
+31,CS212,Kiến trúc máy tính,3,TI,1
+31,CS315,Nguyên lý hệ điều hành,3,TI,1
+31,IS222,Cơ sở dữ liệu,3,TI,1
+31,NW212,Mạng máy tính,2,TI,1
+31,CF231,Lý thuyết thông tin và mã hóa,2,TI,1
+31,CF301,Ngôn ngữ hình thức và Otomat,3,TI,1
+31,IS314,Hệ thống thông tin,3,TI,1
+31,IS322,Hệ quản trị cơ sở dữ liệu,3,TI,1
+31,IS332,Phân tích thiết kế hướng đối tượng,3,TI,1
+31,MI312,Đồ họa,2,TI,1
+31,MI321,Trí tuệ nhân tạo,3,TI,1
+31,SE302,Công nghệ phần mềm,2,TI,1
+31,SE422,Quản lý dự án phần mềm,3,TI,1
+31,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,3,TI,1
+31,SE380,Project,3,TI,1
+31,IS345,An toàn thông tin,3,TI,1
+31,NW312,Thiết kế và quản trị mạng,3,TI,1
+31,NW332,An toàn mạng,3,TI,1
+31,CF211,Phân tích và thiết kế thuật toán,2,TI,0
+31,CS223,Lập trình Java,3,TI,0
+31,CS224,Lập trình .Net,3,TI,0
+31,CS311,Lập trình ứng dụng di động,2,TI,0
+31,CS312,Lập trình hệ thống,3,TI,0
+31,CS316,Hệ điều hành Unix,3,TI,0
+31,CS325,Lập trình PHP,3,TI,0
+31,CS425,Một số vấn đề hiện đại trong khoa học máy tính,2,TI,0
+31,IS424,Lập trình cơ sở dữ liệu,3,TI,0
+31,IS333,Phân tích thiết kế hệ thống thông tin,2,TI,0
+31,IS325,Cơ sở dữ liệu phân tán,2,TI,0
+31,IS383,Hệ thống thông tin nâng cao,2,TI,0
+31,MI414,Giao diện người máy,2,TI,0
+31,IP401,Thực tập ngành Khoa học máy tính,2,TI,1
+31,CS499,KLTN ngành Khoa học máy tính,6,TI,1
+31,IS484,CĐTN: Cơ sở dữ liệu,6,TI,1
+31,NW439,CĐTN: An toàn mạng,6,TI,1
+31,SE487,CĐTN: Phát triển phần mềm,6,TI,1
+31,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TC,1
+31,MA103,Số và cấu trúc đại số,2,TC,1
+31,CS100,Tin đại cương,2,TC,1
+31,SM201,Phương pháp nghiên cứu khoa học,3,TC,1
+31,MA110,Giải tích 1,3,TC,1
+31,MA111,Giải tích 2,3,TC,1
+31,MA120,Đại số tuyến tính,3,TC,1
+31,MA231,Xác suất thống kê ứng dụng,4,TC,1
+31,MI201,Toán rời rạc,3,TC,1
+31,CF212,Cấu trúc dữ liệu,3,TC,1
+31,CS110,Kỹ thuật số,2,TC,1
+31,CS121,Ngôn ngữ lập trình,3,TC,1
+31,CS122,Lập trình hướng đối tượng,3,TC,1
+31,CS212,Kiến trúc máy tính,3,TC,1
+31,CS315,Nguyên lý hệ điều hành,3,TC,1
+31,IS222,Cơ sở dữ liệu,3,TC,1
+31,NW212,Mạng máy tính,2,TC,1
+31,CF231,Lý thuyết thông tin và mã hóa,2,TC,1
+31,CF320,Tín hiệu và hệ thống,3,TC,1
+31,CF321,Xử lý tín hiệu số,3,TC,1
+31,MA300,Toán chuyên ngành truyền thông và mạng máy tính,3,TC,1
+31,TC300,Mô hình hóa và mô phỏng,3,TC,1
+31,TC303,Thiết kế và quản trị mạng truyền thông,3,TC,1
+31,TC313,Kỹ thuật truyền dẫn,3,TC,1
+31,TC314,Kỹ thuật kết nối mạng,3,TC,1
+31,TC316,An ninh mạng truyền thông,3,TC,1
+31,TC473,Quản lý mạng viễn thông,3,TC,1
+31,TC411,Mạng không dây đa bước,2,TC,0
+31,TC412,Báo hiệu và điều khiển,2,TC,0
+31,TC413,Chất lượng dịch vụ mạng,2,TC,0
+31,TC414,Tính toán đám mây,2,TC,0
+31,TC415,Mạng cảm biến,2,TC,0
+31,TC416,Internet thế hệ mới,2,TC,0
+31,TC417,Vô tuyến nhận thức,2,TC,0
+31,TC418,Lập trình nhúng,2,TC,0
+31,TC420,Thiết kế hệ thống truyền thông và mạng máy tính,2,TC,0
+31,TC421,Dữ liệu lớn,2,TC,0
+31,TC424,Quản lý dự án truyền thông và mạng máy tính,3,TC,0
+31,NW322,Lập trình mạng,2,TC,0
+31,CS311,Lập trình ứng dụng di động,2,TC,0
+31,IP402,Thực tập ngành Truyền thông và mạng máy tính,2,TC,1
+31,TC499,KLTN ngành Truyền thông và mạng máy tính,6,TC,1
+31,TC487,CĐTN: Truyền thông và mạng máy tính,6,TC,1
+31,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TE,1
+31,MA103,Số và cấu trúc đại số,2,TE,1
+31,CS100,Tin đại cương,2,TE,1
+31,SM201,Phương pháp nghiên cứu khoa học,3,TE,1
+31,MA110,Giải tích 1,3,TE,1
+31,MA111,Giải tích 2,3,TE,1
+31,MA120,Đại số tuyến tính,3,TE,1
+31,MA231,Xác suất thống kê ứng dụng,4,TE,1
+31,MI201,Toán rời rạc,3,TE,1
+31,CF212,Cấu trúc dữ liệu,3,TE,1
+31,CS110,Kỹ thuật số,2,TE,1
+31,CS121,Ngôn ngữ lập trình,3,TE,1
+31,CS122,Lập trình hướng đối tượng,3,TE,1
+31,CS212,Kiến trúc máy tính,3,TE,1
+31,CS315,Nguyên lý hệ điều hành,3,TE,1
+31,IS222,Cơ sở dữ liệu,3,TE,1
+31,NW212,Mạng máy tính,2,TE,1
+31,IS314,Hệ thống thông tin,3,TE,1
+31,IS315,Mô hình hóa quy trình nghiệp vụ,2,TE,1
+31,IS316,Hạ tầng hệ thống thông tin,3,TE,1
+31,IS322,Hệ quản trị cơ sở dữ liệu,3,TE,1
+31,IS332,Phân tích thiết kế hướng đối tượng,3,TE,1
+31,IS334,Quản lý dự án hệ thống thông tin,3,TE,1
+31,IS383,Hệ thống thông tin nâng cao,2,TE,1
+31,IS480,Kiến trúc doanh nghiệp,3,TE,1
+31,SE302,Công nghệ phần mềm,2,TE,1
+31,IS325,Cơ sở dữ liệu phân tán,2,TE,1
+31,IS326,Khai phá dữ liệu,3,TE,1
+31,IS327,Kho dữ liệu,3,TE,1
+31,IS333,Phân tích thiết kế hệ thống thông tin,2,TE,1
+31,IS335,Phát triển ứng dụng doanh nghiệp,3,TE,1
+31,IS336,Triển khai và kiểm soát hệ thống thông tin doanh nghiệp,3,TE,1
+31,SC201,Kỹ năng giao tiếp và thuyết trình,2,TE,0
+31,CS223,Lập trình Java,3,TE,0
+31,CS224,Lập trình .Net,3,TE,0
+31,CS325,Lập trình PHP,3,TE,0
+31,IS345,An toàn thông tin,3,TE,0
+31,IS384,Một số vấn đề hiện đại về hệ thống thông tin,3,TE,0
+31,IS424,Lập trình cơ sở dữ liệu,3,TE,0
+31,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,3,TE,0
+31,IP403,Thực tập ngành Hệ thống thông tin,2,TE,1
+31,IS499,KLTN ngành Hệ thống thông tin,6,TE,1
+31,IS484,CĐTN: Cơ sở dữ liệu,6,TE,1
+31,NW439,CĐTN: An toàn mạng,6,TE,1
+31,SE487,CĐTN: Phát triển phần mềm,6,TE,1
+32,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TI,1
+32,CS100,Tin đại cương,2,TI,1
+32,MA104,Số và cấu trúc đại số,3,TI,1
+32,MA110,Giải tích 1,3,TI,1
+32,MA111,Giải tích 2,3,TI,1
+32,MA120,Đại số tuyến tính,3,TI,1
+32,MA231,Xác suất thống kê ứng dụng,4,TI,1
+32,MI201,Toán rời rạc,3,TI,1
+32,CF212,Cấu trúc dữ liệu,3,TI,1
+32,CS110,Kỹ thuật số,2,TI,1
+32,CS121,Ngôn ngữ lập trình,3,TI,1
+32,CS122,Lập trình hướng đối tượng,3,TI,1
+32,CS212,Kiến trúc máy tính,3,TI,1
+32,CS315,Nguyên lý hệ điều hành,3,TI,1
+32,IS222,Cơ sở dữ liệu,3,TI,1
+32,NW212,Mạng máy tính,2,TI,1
+32,CF211,Phân tích và thiết kế thuật toán,2,TI,1
+32,CF231,Lý thuyết thông tin và mã hóa,2,TI,1
+32,CS320,Học máy,3,TI,1
+32,CS321,Nhập môn khoa học dữ liệu,2,TI,1
+32,IS314,Hệ thống thông tin,3,TI,1
+32,IS322,Hệ quản trị cơ sở dữ liệu,3,TI,1
+32,IS332,Phân tích thiết kế hướng đối tượng,3,TI,1
+32,MI312,Đồ họa,2,TI,1
+32,MI322,Trí tuệ nhân tạo và công nghệ tri thức,3,TI,1
+32,SE302,Công nghệ phần mềm,2,TI,1
+32,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,3,TI,1
+32,SE380,Project,3,TI,1
+32,SE422,Quản lý dự án phần mềm,3,TI,1
+32,IS345,An toàn thông tin,3,TI,1
+32,NW312,Thiết kế và quản trị mạng,3,TI,1
+32,NW332,An toàn mạng,3,TI,1
+32,CF301,Ngôn ngữ hình thức và Otomat,3,TI,0
+32,CS223,Lập trình Java,3,TI,0
+32,CS224,Lập trình .Net,3,TI,0
+32,CS314,Lập trình ứng dụng di động,2,TI,0
+32,CS312,Lập trình hệ thống,3,TI,0
+32,CS316,Hệ điều hành Unix,3,TI,0
+32,CS325,Lập trình PHP,3,TI,0
+32,CS425,Một số vấn đề hiện đại trong khoa học máy tính,2,TI,0
+32,IS325,Cơ sở dữ liệu phân tán,2,TI,0
+32,IS326,Khai phá dữ liệu,3,TI,0
+32,IS330,Dữ liệu lớn,2,TI,0
+32,IS333,Phân tích thiết kế hệ thống thông tin,2,TI,0
+32,IS383,Hệ thống thông tin nâng cao,2,TI,0
+32,IS424,Lập trình cơ sở dữ liệu,3,TI,0
+32,MI414,Giao diện người máy,2,TI,0
+32,IP401,Thực tập ngành Khoa học máy tính,2,TI,1
+32,CS499,KLTN ngành Khoa học máy tính,6,TI,1
+32,IS484,CĐTN: Cơ sở dữ liệu,6,TI,1
+32,NW439,CĐTN: An toàn mạng,6,TI,1
+32,SE487,CĐTN: Phát triển phần mềm,6,TI,1
+32,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TT,1
+32,CS100,Tin đại cương,2,TT,1
+32,MA104,Số và cấu trúc đại số,3,TT,1
+32,MA110,Giải tích 1,3,TT,1
+32,MA111,Giải tích 2,3,TT,1
+32,MA120,Đại số tuyến tính,3,TT,1
+32,MA231,Xác suất thống kê ứng dụng,4,TT,1
+32,MI201,Toán rời rạc,3,TT,1
+32,CF212,Cấu trúc dữ liệu,3,TT,1
+32,CS110,Kỹ thuật số,2,TT,1
+32,CS121,Ngôn ngữ lập trình,3,TT,1
+32,CS122,Lập trình hướng đối tượng,3,TT,1
+32,CS212,Kiến trúc máy tính,3,TT,1
+32,CS315,Nguyên lý hệ điều hành,3,TT,1
+32,IS222,Cơ sở dữ liệu,3,TT,1
+32,NW212,Mạng máy tính,2,TT,1
+32,IS314,Hệ thống thông tin,3,TT,1
+32,IS322,Hệ quản trị cơ sở dữ liệu,3,TT,1
+32,IS330,Dữ liệu lớn,2,TT,1
+32,IS332,Phân tích thiết kế hướng đối tượng,3,TT,1
+32,IS334,Quản lý dự án hệ thống thông tin,3,TT,1
+32,MI322,Trí tuệ nhân tạo và công nghệ tri thức,3,TT,1
+32,SE302,Công nghệ phần mềm,2,TT,1
+32,CS314,Lập trình ứng dụng di động,2,TT,1
+32,IT320,Lập trình Python,3,TT,1
+32,IT332,Internet of Things,2,TT,1
+32,IT333,Công nghệ Web,3,TT,1
+32,IT380,Dự án Công nghệ thông tin,2,TT,1
+32,CF211,Phân tích và thiết kế thuật toán,2,TT,0
+32,CS223,Lập trình Java,3,TT,0
+32,CS224,Lập trình .Net,3,TT,0
+32,CS320,Học máy,3,TT,0
+32,CS325,Lập trình PHP,3,TT,0
+32,IS324,Phân tích dữ liệu,3,TT,0
+32,IS424,Lập trình cơ sở dữ liệu,3,TT,0
+32,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,3,TT,0
+32,MI312,Đồ họa,2,TT,0
+32,MI414,Giao diện người máy,2,TT,0
+32,IP404,Thực tập ngành CNTT,2,TT,1
+32,IT499,KLTN ngành CNTT,6,TT,1
+32,IS484,CĐTN: Cơ sở dữ liệu,6,TT,1
+32,SE487,CĐTN: Phát triển phần mềm,6,TT,1
+32,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TC,1
+32,CS100,Tin đại cương,2,TC,1
+32,MA104,Số và cấu trúc đại số,3,TC,1
+32,MA110,Giải tích 1,3,TC,1
+32,MA111,Giải tích 2,3,TC,1
+32,MA120,Đại số tuyến tính,3,TC,1
+32,MA231,Xác suất thống kê ứng dụng,4,TC,1
+32,MI201,Toán rời rạc,3,TC,1
+32,CF212,Cấu trúc dữ liệu,3,TC,1
+32,CS110,Kỹ thuật số,2,TC,1
+32,CS121,Ngôn ngữ lập trình,3,TC,1
+32,CS122,Lập trình hướng đối tượng,3,TC,1
+32,CS212,Kiến trúc máy tính,3,TC,1
+32,CS315,Nguyên lý hệ điều hành,3,TC,1
+32,IS222,Cơ sở dữ liệu,3,TC,1
+32,NW212,Mạng máy tính,2,TC,1
+32,CF231,Lý thuyết thông tin và mã hóa,2,TC,1
+32,CF320,Tín hiệu và hệ thống,3,TC,1
+32,CF321,Xử lý tín hiệu số,3,TC,1
+32,MA300,Toán chuyên ngành truyền thông dữ liệu,3,TC,1
+32,TC300,Mô hình hóa và mô phỏng,3,TC,1
+32,TC303,Thiết kế và quản trị mạng truyền thông,3,TC,1
+32,TC313,Kỹ thuật truyền dẫn,3,TC,1
+32,TC314,Kỹ thuật kết nối mạng,3,TC,1
+32,TC316,An ninh mạng truyền thông,3,TC,1
+32,TC473,Quản lý mạng viễn thông,3,TC,1
+32,TC423,Mạng không dây đa bước,2,TC,0
+32,TC427,Báo hiệu và điều khiển,2,TC,0
+32,TC429,Chất lượng dịch vụ mạng,2,TC,0
+32,TC430,Tính toán đám mây,2,TC,0
+32,TC431,Mạng cảm biến,2,TC,0
+32,TC432,Vô tuyến nhận thức,2,TC,0
+32,TC418,Lập trình nhúng,2,TC,0
+32,TC420,Thiết kế hệ thống mạng truyền thông,2,TC,0
+32,TC421,Dữ liệu lớn trong IOT,2,TC,0
+32,TC433,Quản lý dự án truyền thông và mạng máy tính,2,TC,0
+32,TC425,Lập trình ứng dụng IOT,2,TC,0
+32,TC426,Trí tuệ nhân tạo trong IOT,2,TC,0
+32,NW323,Lập trình mạng,2,TC,0
+32,CS314,Lập trình ứng dụng di động,2,TC,0
+32,IP402,Thực tập ngành Truyền thông và mạng máy tính,2,TC,1
+32,TC499,KLTN ngành Truyền thông và mạng máy tính,6,TC,1
+32,TC487,CĐTN: Truyền thông và mạng máy tính,6,TC,1
+32,MA101,"Logic, suy luận toán học và kỹ thuật đếm",3,TE,1
+32,CS100,Tin đại cương,2,TE,1
+32,MA104,Số và cấu trúc đại số,3,TE,1
+32,MA110,Giải tích 1,3,TE,1
+32,MA111,Giải tích 2,3,TE,1
+32,MA120,Đại số tuyến tính,3,TE,1
+32,MA231,Xác suất thống kê ứng dụng,4,TE,1
+32,MI201,Toán rời rạc,3,TE,1
+32,CF212,Cấu trúc dữ liệu,3,TE,1
+32,CS110,Kỹ thuật số,2,TE,1
+32,CS121,Ngôn ngữ lập trình,3,TE,1
+32,CS122,Lập trình hướng đối tượng,3,TE,1
+32,CS212,Kiến trúc máy tính,3,TE,1
+32,CS315,Nguyên lý hệ điều hành,3,TE,1
+32,IS222,Cơ sở dữ liệu,3,TE,1
+32,NW212,Mạng máy tính,2,TE,1
+32,IS314,Hệ thống thông tin,3,TE,1
+32,IS315,Mô hình hóa quy trình nghiệp vụ,2,TE,1
+32,IS317,Hạ tầng công nghệ thông tin,2,TE,1
+32,IS322,Hệ quản trị cơ sở dữ liệu,3,TE,1
+32,IS332,Phân tích thiết kế hướng đối tượng,3,TE,1
+32,IS334,Quản lý dự án hệ thống thông tin,3,TE,1
+32,IS383,Hệ thống thông tin nâng cao,2,TE,1
+32,IS480,Kiến trúc doanh nghiệp,3,TE,1
+32,SE302,Công nghệ phần mềm,2,TE,1
+32,IS325,Cơ sở dữ liệu phân tán,2,TE,1
+32,IS326,Khai phá dữ liệu,3,TE,1
+32,IS327,Kho dữ liệu,3,TE,1
+32,IS333,Phân tích thiết kế hệ thống thông tin,2,TE,1
+32,IS335,Phát triển ứng dụng doanh nghiệp,3,TE,1
+32,IS336,Triển khai và kiểm soát hệ thống thông tin doanh nghiệp,3,TE,1
+32,CS223,Lập trình Java,3,TE,0
+32,CS224,Lập trình .Net,3,TE,0
+32,CS325,Lập trình PHP,3,TE,0
+32,IS337,Xây dựng ứng dụng thương mại điện tử,3,TE,0
+32,IS338,Hệ thống thông tin di động,3,TE,0
+32,IS345,An toàn thông tin,3,TE,0
+32,IS384,Một số vấn đề hiện đại về hệ thống thông tin,3,TE,0
+32,IS424,Lập trình cơ sở dữ liệu,3,TE,0
+32,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,3,TE,0
+32,MI322,Trí tuệ nhân tạo và công nghệ tri thức,3,TE,0
+32,IP403,Thực tập ngành Hệ thống thông tin,2,TE,1
+32,IS499,KLTN ngành Hệ thống thông tin,6,TE,1
+32,IS484,CĐTN: Cơ sở dữ liệu,6,TE,1
+32,NW439,CĐTN: An toàn mạng,6,TE,1
+32,SE487,CĐTN: Phát triển phần mềm,6,TE,1

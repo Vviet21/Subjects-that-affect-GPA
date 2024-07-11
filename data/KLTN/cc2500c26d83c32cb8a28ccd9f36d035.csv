@@ -1,0 +1,51 @@
+Mã HP,Tên HP,Điểm,Số TC
+CS100,Tin đại cương,0.0,2
+CS121,Ngôn ngữ lập trình,7.0,3
+CS122,Lập trình hướng đối tượng,0.0,3
+EC101,Kinh tế học đại cương,5.8,3
+FN201A,Lý thuyết tài chính tiền tệ,7.2,2
+GE100,Tiếng Anh cho người mới bắt đầu,8.1,2
+GE101A,Tiếng Anh sơ cấp 1,7.9,2
+GE102A,Tiếng Anh sơ cấp 2,7.1,2
+GE201A,Tiếng Anh sơ trung cấp 1,5.9,2
+GE202A,Tiếng Anh sơ trung cấp 2,6.3,2
+GZ101,Tiếng Trung 1,0.0,2
+MA101A,"Logic, suy luận toán học và kỹ thuật đếm",5.0,3
+MA102,Toán cơ sở,0.0,3
+ML111,Triết học Mác – Lênin,7.8,2
+ML112,Kinh tế chính trị và CNXH khoa học,5.0,3
+ML202,Tư tưởng Hồ Chí Minh,5.0,2
+ML203,Đường lối cách mạng của Đảng CS Việt Nam,8.0,3
+NA151,Khoa học môi trường,7.0,2
+PG100,Giáo dục thể chất,7.3,4
+PG104,GDTC: Cầu lông cơ bản,4.4,1
+PG113,GDTC: Bóng rổ cơ bản,-1.0,1
+PG121,Giáo dục quốc phòng,6.8,4
+SH131,Pháp luật đại cương,6.0,2
+AC201,Nguyên lý kế toán,0.0,3
+AC210,Kế toán doanh nghiệp,1.5,3
+AC321,Kế toán ngân hàng 1,-1.0,2
+AD211,Văn hóa Hà Nội,0.0,2
+BA101,Quản trị học,5.4,2
+BA313,Quản trị chiến lược,6.6,3
+BK201,Ngân hàng thương mại 1,5.0,3
+CF201,Lý thuyết thuật toán,0.0,3
+CS110,Kỹ thuật số,0.0,2
+CS315,Nguyên lý hệ điều hành,2.2,3
+CS316,Hệ điều hành Unix,0.0,3
+CS325,Lập trình PHP,7.2,3
+EC202,Kinh tế vi mô,-1.0,2
+EC203,Kinh tế vĩ mô,5.0,2
+FN211D,Nhập môn tài chính doanh nghiệp,5.0,2
+FN221,Tài chính công,5.8,2
+IS222,Cơ sở dữ liệu,5.0,3
+IS322,Hệ quản trị cơ sở dữ liệu,0.0,3
+IS333,Phân tích thiết kế hệ thống thông tin,7.5,2
+MA120A,Đại số tuyến tính 1,2.0,2
+MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",-1.0,4
+MA231,Xác suất thống kê ứng dụng,-1.0,4
+MI201,Toán rời rạc,0.0,3
+MK201,Nguyên lý marketing,7.0,2
+MK311,Quản trị Marketing,9.0,3
+PE201,Tiếng Anh trong tin học 1A,6.7,2
+SM201,Phương pháp luận nghiên cứu khoa học,8.0,3

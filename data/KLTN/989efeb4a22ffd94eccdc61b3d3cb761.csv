@@ -1,0 +1,31 @@
+Mã HP,Tên HP,Điểm,Số TC
+CS100,Tin đại cương,0.0,2
+CS121,Ngôn ngữ lập trình,6.9,3
+CS122,Lập trình hướng đối tượng,0.0,3
+EC101,Kinh tế học đại cương,0.0,3
+GE100,Tiếng Anh cho người mới bắt đầu,5.5,2
+GE101A,Tiếng Anh sơ cấp 1,5.0,2
+GE102A,Tiếng Anh sơ cấp 2,5.0,2
+GE201A,Tiếng Anh sơ trung cấp 1,0.0,2
+GE202A,Tiếng Anh sơ trung cấp 2,0.0,2
+GJ101,Tiếng Nhật 1,0.0,2
+GJ102,Tiếng Nhật 2,-1.0,2
+MA102,Toán cơ sở,-1.0,3
+ML111,Triết học Mác – Lênin,0.0,2
+ML112,Kinh tế chính trị và CNXH khoa học,0.0,3
+ML202,Tư tưởng Hồ Chí Minh,6.0,2
+ML203,Đường lối cách mạng của Đảng CS Việt Nam,7.0,3
+NA151,Khoa học môi trường,6.7,2
+PG101,GDTC: Lý thuyết,5.5,1
+PG106,GDTC: Bóng bàn cơ bản,8.0,1
+PG110,GDTC: Bơi cơ bản,10.0,1
+PG113,GDTC: Bóng rổ cơ bản,-1.0,1
+PG121,Giáo dục quốc phòng,6.7,4
+SH131,Pháp luật đại cương,8.0,2
+VL101,Tiếng Việt thực hành,7.0,2
+CF201,Lý thuyết thuật toán,0.0,3
+MA120,Đại số tuyến tính,-1.0,3
+MA231,Xác suất thống kê ứng dụng,0.0,4
+MI201,Toán rời rạc,0.0,3
+MI312,Đồ họa,0.0,2
+PE201,Tiếng Anh trong tin học 1A,-1.0,2

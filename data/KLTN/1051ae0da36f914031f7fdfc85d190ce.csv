@@ -1,0 +1,32 @@
+Mã HP,Tên HP,Điểm,Số TC
+CS100,Tin đại cương,9.0,2
+CS102,Công dân số,7.5,2
+CS110,Kỹ thuật số,6.2,2
+CS121,Ngôn ngữ lập trình,6.2,3
+CS122,Lập trình hướng đối tượng,8.5,3
+EC102,Nhập môn kinh tế học,5.3,2
+GE111,Tiếng Anh sơ cấp 1,7.6,2
+GE112,Tiếng Anh sơ cấp 2,7.3,2
+GE121,Tiếng Anh sơ trung cấp 1,6.8,2
+GE222,Tiếng Anh sơ trung cấp 2,6.7,2
+GE231,Tiếng Anh trung cấp 1,0.0,2
+GF101,Tiếng Pháp 1,8.3,2
+GF102,Tiếng Pháp 2,6.9,2
+IS222,Cơ sở dữ liệu,7.0,3
+MA101,"Logic, suy luận toán học và kỹ thuật đếm",6.7,3
+MA110,Giải tích 1,5.2,3
+MA120,Đại số tuyến tính,5.2,3
+MI201,Toán rời rạc,0.0,3
+ML113,Triết học Mác - Lênin,8.9,3
+ML114,Kinh tế chính trị Mác - Lênin,8.6,2
+ML115,Chủ nghĩa xã hội khoa học,8.9,2
+ML204,Lịch sử Đảng,-1.0,2
+PG113,GDTC: Bóng rổ cơ bản,6.2,1
+PG115,GDTC: Bóng chuyền cơ bản,9.0,1
+PG118,GDTC: Thể dục cơ bản,10.0,1
+PG120,Thể dục cơ bản nâng cao,0.0,1
+SH131,Pháp luật đại cương,9.1,2
+VL101,Tiếng Việt thực hành,6.6,2
+AD314,Nhảy hiện đại,0.0,4
+CS223,Lập trình Java,7.2,3
+IS332,Phân tích thiết kế hướng đối tượng,0.0,3

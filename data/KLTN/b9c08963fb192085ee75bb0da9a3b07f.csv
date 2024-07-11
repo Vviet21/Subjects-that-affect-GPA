@@ -1,0 +1,54 @@
+Mã HP,Tên HP,Điểm,Số TC
+CS100,Tin đại cương,8.8,2
+CS102,Công dân số,3.4,2
+CS121,Ngôn ngữ lập trình,-1.0,3
+CS122,Lập trình hướng đối tượng,5.1,3
+CS320,Học máy,6.0,3
+CS330,Bảo mật thông tin,7.8,3
+EC101,Kinh tế học đại cương,7.9,3
+EC102,Nhập môn kinh tế học,8.8,2
+GE101,Tiếng Anh sơ cấp 1,5.9,2
+GE102,Tiếng Anh sơ cấp 2,7.0,2
+GE103,Tiếng Anh sơ cấp 3,4.4,2
+GK101,Tiếng Hàn 1,9.9,2
+GK102,Tiếng Hàn 2,9.8,2
+IS223,Cơ sở dữ liệu và khai phá dữ liệu,7.6,3
+IS314,Hệ thống thông tin,7.8,3
+IS330,Dữ liệu lớn,9.2,2
+IS430,Công nghệ Blockchain,8.5,3
+MA101,"Logic, suy luận toán học và kỹ thuật đếm",10.0,3
+MA104,Số và cấu trúc đại số,8.4,3
+MA215,Topology,6.0,2
+MA217,Phương trình vi phân,10.0,2
+MA234,Thống Kê,9.5,2
+MA342,Giải tích lồi,9.0,3
+MI322,Trí tuệ nhân tạo và công nghệ tri thức,9.0,3
+MI332,Thực hành tính toán,4.0,3
+ML111,Triết học Mác – Lênin,9.8,2
+ML112,Kinh tế chính trị và CNXH khoa học,10.0,3
+ML202,Tư tưởng Hồ Chí Minh,8.4,2
+ML204,Lịch sử Đảng,9.4,2
+NA151,Khoa học môi trường,9.2,2
+PG102,GDTC: Thể dục cổ truyền cơ bản,9.0,1
+PG106,GDTC: Bóng bàn cơ bản,1.5,1
+PG113,GDTC: Bóng rổ cơ bản,8.0,1
+PG118,GDTC: Thể dục cơ bản,6.9,1
+PG121,Giáo dục quốc phòng,6.6,4
+SH131,Pháp luật đại cương,9.3,2
+VL101,Tiếng Việt thực hành,2.2,2
+AD241,Dẫn chương trình (MC),9.5,3
+CF212,Cấu trúc dữ liệu,5.0,3
+FN334,Đầu tư chứng khoán,8.6,2
+IS322,Hệ quản trị cơ sở dữ liệu,6.1,3
+IS332,Phân tích thiết kế hướng đối tượng,6.5,3
+MA110,Giải tích 1,6.8,3
+MA111,Giải tích 2,9.0,3
+MA120,Đại số tuyến tính,8.3,3
+MA230,Xác suất,10.0,3
+MA313,Hàm biến phức,8.8,2
+MA323,Số học thuật toán,9.4,2
+MA340,Giải tích số,8.6,3
+MI201,Toán rời rạc,6.8,3
+MI302,Tối ưu hóa,3.4,2
+MI489,KLTN: Toán ứng dụng,0.0,6
+NW212,Mạng máy tính,7.9,2

@@ -1,0 +1,55 @@
+Mã HP,Tên HP,Điểm,Số TC
+CS100A,Nhập môn khoa học máy tính,7.3,2
+CS121,Ngôn ngữ lập trình,5.3,3
+EC101,Kinh tế học đại cương,5.0,3
+EC221A,Luật kinh tế,6.0,3
+GE100,Tiếng Anh cho người mới bắt đầu,6.6,2
+GE101A,Tiếng Anh sơ cấp 1,6.6,2
+GE102A,Tiếng Anh sơ cấp 2,5.1,2
+GE201A,Tiếng Anh sơ trung cấp 1,5.4,2
+GE202A,Tiếng Anh sơ trung cấp 2,7.0,2
+GI101,Tiếng Ý 1,6.3,2
+GI102,Tiếng Ý 2,5.5,2
+MA100A,Toán 1,5.0,2
+ML111,Triết học Mác – Lênin,8.1,2
+ML112,Kinh tế chính trị và CNXH khoa học,6.3,3
+ML202,Tư tưởng Hồ Chí Minh,7.0,2
+ML203,Đường lối cách mạng của Đảng CS Việt Nam,8.3,3
+NA151,Khoa học môi trường,7.0,2
+PG100,Giáo dục thể chất,7.5,4
+PG121,Giáo dục quốc phòng,6.0,4
+SH131,Pháp luật đại cương,5.0,2
+AC201,Nguyên lý kế toán,3.0,3
+CF201,Lý thuyết thuật toán,0.0,3
+CF321,Xử lý tín hiệu số,2.0,3
+CS110,Kỹ thuật số,8.0,2
+CS210B,Thực hành điện tử số,7.0,2
+CS211,Vi điều khiển và ứng dụng,6.0,3
+CS212A,Kiến trúc máy tính 1,5.0,2
+CS212B,Kiến trúc máy tính 2,6.0,2
+CS311A,Hợp ngữ,5.0,2
+CS312,Lập trình hệ thống,5.0,3
+CS315,Nguyên lý hệ điều hành,6.0,3
+CS411,Ứng dụng KT vi xử lý trong đo lường và điều khiển,8.0,2
+EC202,Kinh tế vi mô,4.1,2
+EC203,Kinh tế vĩ mô,4.0,2
+FN201,Tài chính tiền tệ căn bản,3.4,3
+IS222,Cơ sở dữ liệu,5.0,3
+IS223A,Cơ sở dữ liệu 2,0.0,2
+MA110A,Giải tích 1A,3.0,2
+MA111A,Giải tích 2A,5.0,2
+MA120A,Đại số tuyến tính 1,0.0,2
+MA212,Phương trình vi phân,0.0,2
+MA231,Xác suất thống kê ứng dụng,0.0,4
+MI201,Toán rời rạc,0.0,3
+NW212,Mạng máy tính,8.5,2
+NW312A,Thiết kế quản trị mạng,0.8,4
+NW332A,An toàn mạng,2.6,4
+PE201,Tiếng Anh trong tin học 1A,7.3,2
+PE221,Tiếng Anh doanh nghiệp 1A,4.1,2
+PE302,Tiếng Anh trong tin học 1B,5.4,2
+TC311,Kỹ thuật truyền tin,5.0,3
+TC313A,Kỹ thuật truyền dẫn quang,5.0,2
+TC314A,Truyền dẫn và chuyển mạch số,5.0,2
+TC422,Thông tin di động và vệ tinh,6.0,2
+TC458,CĐTN: Các giải pháp mạng đô thị,0.0,6

@@ -1,0 +1,48 @@
+Mã HP,Tên HP,Điểm,Số TC
+CS100,Tin đại cương,5.8,2
+CS121,Ngôn ngữ lập trình,3.8,3
+CS122,Lập trình hướng đối tượng,3.3,3
+EC101,Kinh tế học đại cương,3.0,3
+GE100,Tiếng Anh cho người mới bắt đầu,7.3,2
+GE101A,Tiếng Anh sơ cấp 1,7.2,2
+GE102A,Tiếng Anh sơ cấp 2,6.1,2
+GE201A,Tiếng Anh sơ trung cấp 1,6.0,2
+GE202A,Tiếng Anh sơ trung cấp 2,6.3,2
+GE204,Kỹ năng giao tiếp tiếng Anh 2,-1.0,2
+GF101,Tiếng Pháp 1,5.0,2
+GF102,Tiếng Pháp 2,-1.0,2
+MA101A,"Logic, suy luận toán học và kỹ thuật đếm",3.0,3
+ML111,Triết học Mác – Lênin,3.1,2
+ML112,Kinh tế chính trị và CNXH khoa học,4.5,3
+ML202,Tư tưởng Hồ Chí Minh,8.3,2
+ML203,Đường lối cách mạng của Đảng CS Việt Nam,5.8,3
+NA151,Khoa học môi trường,6.1,2
+PG115,GDTC: Bóng chuyền cơ bản,6.3,1
+PG118,GDTC: Thể dục cơ bản,7.9,1
+PG122,GDQP: Đường lối quân sự của Đảng,4.6,1
+PG123,GDQP: Công tác quốc phòng - an ninh,3.6,1
+PG124,GDQP: Quân sự chung,7.0,1
+PG125,GDQP: Kỹ thuật bắn súng,2.8,1
+SC201,Kỹ năng giao tiếp và thuyết trình,-1.0,2
+SH131,Pháp luật đại cương,5.2,2
+VL101,Tiếng Việt thực hành,6.1,2
+AD204,Ẩm thực Việt nam,9.0,4
+CF212,Cấu trúc dữ liệu,-1.0,3
+CS110,Kỹ thuật số,-1.0,2
+CS223,Lập trình Java,-1.0,3
+IS222,Cơ sở dữ liệu,1.2,3
+IS314,Hệ thống thông tin,1.5,3
+IS316,Hạ tầng công nghệ thông tin,-1.0,3
+IS322,Hệ quản trị cơ sở dữ liệu,-1.0,3
+IS326,Khai phá dữ liệu,-1.0,3
+IS332,Phân tích thiết kế hướng đối tượng,-1.0,3
+MA110,Giải tích 1,-1.0,3
+MA120,Đại số tuyến tính,5.3,3
+MA231,Xác suất thống kê ứng dụng,3.4,4
+MI201,Toán rời rạc,3.7,3
+PE201,Tiếng Anh trong tin học 1A,6.0,2
+PE302,Tiếng Anh trong tin học 1B,6.4,2
+PE303,Tiếng Anh trong tin học 2A,5.1,2
+PE404,Tiếng Anh trong tin học 2B,-1.0,2
+SE302,Công nghệ phần mềm,-1.0,2
+SM201,Phương pháp luận nghiên cứu khoa học,2.1,3

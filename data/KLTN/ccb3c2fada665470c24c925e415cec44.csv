@@ -1,0 +1,68 @@
+Mã HP,Tên HP,Điểm,Số TC
+CS100A,Nhập môn khoa học máy tính,7.5,2
+CS121,Ngôn ngữ lập trình,7.7,3
+CS122,Lập trình hướng đối tượng,6.4,3
+CS311A,Hợp ngữ,5.0,2
+EC101,Kinh tế học đại cương,5.0,3
+FN201A,Lý thuyết tài chính tiền tệ,5.0,2
+GE100,Tiếng Anh cho người mới bắt đầu,9.0,2
+GE101A,Tiếng Anh sơ cấp 1,7.0,2
+GE102A,Tiếng Anh sơ cấp 2,8.0,2
+GE201A,Tiếng Anh sơ trung cấp 1,7.4,2
+GE202A,Tiếng Anh sơ trung cấp 2,5.2,2
+GF101,Tiếng Pháp 1,5.0,2
+GF102,Tiếng Pháp 2,7.4,2
+IS322E,Hệ quản trị cơ sở dữ liệu,0.0,4
+MA100A,Toán 1,6.0,2
+MA110A,Giải tích 1A,0.0,2
+MA111A,Giải tích 2A,0.0,2
+MA120A,Đại số tuyến tính 1,0.0,2
+ML111,Triết học Mác – Lênin,5.1,2
+ML112,Kinh tế chính trị và CNXH khoa học,5.0,3
+ML202,Tư tưởng Hồ Chí Minh,-1.0,2
+ML203,Đường lối cách mạng của Đảng CS Việt Nam,-1.0,3
+NA151,Khoa học môi trường,6.0,2
+NW312A,Thiết kế quản trị mạng,5.4,4
+PG100,Giáo dục thể chất,7.0,4
+PG121,Giáo dục quốc phòng,5.8,4
+SH131,Pháp luật đại cương,5.0,2
+AC201,Nguyên lý kế toán,0.0,3
+AC210,Kế toán doanh nghiệp,-1.0,3
+AD211,Văn hóa Hà Nội,6.0,2
+BA101,Quản trị học,5.0,2
+BK201,Ngân hàng thương mại 1,5.7,3
+CF201,Lý thuyết thuật toán,5.5,3
+CS110,Kỹ thuật số,6.0,2
+CS224,Lập trình .Net,6.0,3
+CS315,Nguyên lý hệ điều hành,5.5,3
+CS316,Hệ điều hành Unix,0.0,3
+CS325,Lập trình PHP,0.0,3
+EC202,Kinh tế vi mô,5.0,2
+EC203,Kinh tế vĩ mô,5.0,2
+FN211D,Nhập môn tài chính doanh nghiệp,3.0,2
+FN221,Tài chính công,-1.0,2
+IS222,Cơ sở dữ liệu,5.0,3
+IS322,Hệ quản trị cơ sở dữ liệu,-1.0,3
+IS322E,Hệ quản trị cơ sở dữ liệu,0.0,4
+IS332,Phân tích thiết kế hướng đối tượng,6.5,3
+IS333,Phân tích thiết kế hệ thống thông tin,6.5,2
+IS424A,Lập trình cơ sở dữ liệu 1,0.0,4
+MA110A,Giải tích 1A,0.0,2
+MA111A,Giải tích 2A,0.0,2
+MA120A,Đại số tuyến tính 1,0.0,2
+MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",-1.0,4
+MA142B,Giải tích trong kinh tế,5.0,2
+MA212,Phương trình vi phân,0.0,2
+MA222,Đại số đại cương,0.0,2
+MA231,Xác suất thống kê ứng dụng,-1.0,4
+MI312,Đồ họa,5.0,2
+MI414,Giao diện người máy,7.0,2
+MK201,Nguyên lý marketing,5.3,2
+MK312,Quản trị thương hiệu,6.2,2
+NW212,Mạng máy tính,5.0,2
+NW312A,Thiết kế quản trị mạng,5.4,4
+NW332A,An toàn mạng,5.3,4
+PE201,Tiếng Anh trong tin học 1A,8.5,2
+PE302,Tiếng Anh trong tin học 1B,7.2,2
+SE302,Công nghệ phần mềm,0.0,2
+SE487,CĐTN: Phát triển phần mềm,-1.0,6

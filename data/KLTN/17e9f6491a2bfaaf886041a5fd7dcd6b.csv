@@ -1,0 +1,35 @@
+Mã HP,Tên HP,Điểm,Số TC
+CS100A,Nhập môn khoa học máy tính,6.4,2
+CS121,Ngôn ngữ lập trình,7.5,3
+CS122,Lập trình hướng đối tượng,1.9,3
+CS212A,Kiến trúc máy tính 1,6.0,2
+CS311A,Hợp ngữ,2.0,2
+GE100,Tiếng Anh cho người mới bắt đầu,6.9,2
+GE101A,Tiếng Anh sơ cấp 1,6.9,2
+GE102A,Tiếng Anh sơ cấp 2,6.3,2
+GE201A,Tiếng Anh sơ trung cấp 1,6.8,2
+GE202A,Tiếng Anh sơ trung cấp 2,6.9,2
+GF101,Tiếng Pháp 1,5.0,2
+GF102,Tiếng Pháp 2,2.4,2
+IS223A,Cơ sở dữ liệu 2,3.0,2
+MA100A,Toán 1,6.5,2
+MA110A,Giải tích 1A,0.0,2
+ML111,Triết học Mác – Lênin,6.0,2
+ML112A,Kinh tế chính trị,5.0,3
+ML112B,Chủ nghĩa xã hội khoa học,-1.0,2
+NA151,Khoa học môi trường,5.0,2
+NW312A,Thiết kế quản trị mạng,-1.0,4
+PG101,GDTC: Lý thuyết,3.0,1
+PG102,GDTC: Thể dục cổ truyền cơ bản,-0.7,1
+PG104,GDTC: Cầu lông cơ bản,5.0,1
+PG106,GDTC: Bóng bàn cơ bản,9.0,1
+PG121,Giáo dục quốc phòng,0.0,4
+PG122,GDQP: Đường lối quân sự của Đảng,0.0,1
+PG123,GDQP: Công tác quốc phòng - an ninh,0.0,1
+SH131,Pháp luật đại cương,3.0,2
+CS110,Kỹ thuật số,6.0,2
+CS315,Nguyên lý hệ điều hành,4.0,3
+IS222,Cơ sở dữ liệu,5.0,3
+MI201,Toán rời rạc,2.5,3
+MI414,Giao diện người máy,-1.0,2
+NW212,Mạng máy tính,7.0,2

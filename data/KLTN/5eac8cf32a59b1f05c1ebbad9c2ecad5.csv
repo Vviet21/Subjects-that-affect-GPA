@@ -1,0 +1,61 @@
+Mã HP,Tên HP,Điểm,Số TC
+CS100A,Nhập môn khoa học máy tính,7.9,2
+CS121,Ngôn ngữ lập trình,7.0,3
+CS122,Lập trình hướng đối tượng,5.4,3
+EC101,Kinh tế học đại cương,7.8,3
+GE100,Tiếng Anh cho người mới bắt đầu,5.6,2
+GE101A,Tiếng Anh sơ cấp 1,5.5,2
+GE102A,Tiếng Anh sơ cấp 2,5.6,2
+GE201A,Tiếng Anh sơ trung cấp 1,5.0,2
+GE202A,Tiếng Anh sơ trung cấp 2,6.0,2
+GJ101,Tiếng Nhật 1,7.6,2
+GJ102,Tiếng Nhật 2,6.3,2
+MA100A,Toán 1,5.3,2
+ML111,Triết học Mác – Lênin,5.0,2
+ML112,Kinh tế chính trị và CNXH khoa học,6.3,3
+ML202,Tư tưởng Hồ Chí Minh,7.0,2
+ML203,Đường lối cách mạng của Đảng CS Việt Nam,7.0,3
+NA151,Khoa học môi trường,5.0,2
+PG100,Giáo dục thể chất,6.8,4
+PG121,Giáo dục quốc phòng,6.4,4
+SH131,Pháp luật đại cương,5.0,2
+AD211,Văn hóa Hà Nội,6.0,2
+CF201,Lý thuyết thuật toán,5.0,3
+CF212,Cấu trúc dữ liệu,4.0,3
+CF231,Lý thuyết thông tin và mã hóa,6.5,2
+CF321,Xử lý tín hiệu số,6.0,3
+CS110,Kỹ thuật số,7.0,2
+CS210B,Thực hành điện tử số,6.0,2
+CS211,Vi điều khiển và ứng dụng,9.0,3
+CS212A,Kiến trúc máy tính 1,7.0,2
+CS212B,Kiến trúc máy tính 2,5.0,2
+CS312,Lập trình hệ thống,5.0,3
+CS315,Nguyên lý hệ điều hành,7.0,3
+CS316,Hệ điều hành Unix,7.3,3
+CS324,Kỹ thuật lập trình,9.0,2
+CS411,Ứng dụng KT vi xử lý trong đo lường và điều khiển,7.0,2
+ET220,Lý thuyết mạch,5.0,3
+IS222,Cơ sở dữ liệu,5.0,3
+IS322E,Hệ quản trị cơ sở dữ liệu,5.0,4
+IS332,Phân tích thiết kế hướng đối tượng,5.0,3
+MA110A,Giải tích 1A,5.8,2
+MA111A,Giải tích 2A,6.0,2
+MA120A,Đại số tuyến tính 1,8.0,2
+MA212,Phương trình vi phân,5.0,2
+MA222,Đại số đại cương,0.0,2
+MA231,Xác suất thống kê ứng dụng,7.0,4
+MI201,Toán rời rạc,7.0,3
+MK201,Nguyên lý marketing,5.0,2
+NW212,Mạng máy tính,8.0,2
+NW312,Thiết kế và quản trị mạng,7.5,3
+PE201,Tiếng Anh trong tin học 1A,5.7,2
+PE302,Tiếng Anh trong tin học 1B,5.0,2
+PE303,Tiếng Anh trong tin học 2A,5.0,2
+PE404,Tiếng Anh trong tin học 2B,5.7,2
+TC301,Hệ thống mạng viễn thông,6.5,3
+TC311,Kỹ thuật truyền tin,6.5,3
+TC313A,Kỹ thuật truyền dẫn quang,7.5,2
+TC314A,Truyền dẫn và chuyển mạch số,6.0,2
+TC403,Mạng truy nhập,7.5,2
+TC422,Thông tin di động và vệ tinh,5.0,2
+TC458,CĐTN: Các giải pháp mạng đô thị,8.8,6

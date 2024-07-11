@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Kết Quả GPA</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+  <style>
+    .low-grade {
+      
+      color:red
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Kết Quả GPA</h2>
+    <p>GPA : <span id="gpa"></span></p>
+    <p>Tín Chỉ Tích Lũy : <span id="tinchi"></span></p>
+    <table id="bangdiemketqua">
+      <thead>
+        <tr>
+          <th>Mã Môn Học</th>
+          <th>Tên Môn Học</th>
+          <th>Điểm Số</th>
+          <th>Tín Chỉ</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+    <h3>Biểu Đồ Điểm</h3>
+    <div class="dashboard">
+    <button onclick="vebieudo()">Vẽ biểu đồ</button>
+      <div class="chart small-chart">
+        <img id="grade_plot" src="{{ url_for('static', filename='image_result/grade_plot.png') }}" alt="Grade Plot">
+      </div>
+      
+      <div class="chart big-chart">
+        <img id="gpa_plot" src="{{ url_for('static', filename='image_result/gpa_plot.png') }}" >
+      </div>
+    </div>
+    <h2>Nhập Mã Môn Học</h2>
+    <form id="form-ma-mon-hoc">
+        <label for="ma-mon-hoc">Mã Môn Học:</label>
+        <input type="text" id="ma-mon-hoc" name="ma-mon-hoc">
+        <button type="button" onclick="sosanh()">So sánh điểm và tầm quan trọng của môn</button>
+    </form>
+    <div class="chart big-chart" id="bieu-do"></div>
+    <h2>Những môn học trong chương trình chuyên nghiệp của ngành </h1>
+    <form action="/show_image" method="get">
+        <button type="submit">Show Image</button>
+    </form>
+    
+  </div>
+  <script  src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

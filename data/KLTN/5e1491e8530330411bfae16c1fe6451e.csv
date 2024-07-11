@@ -1,0 +1,63 @@
+Mã HP,Tên HP,Điểm,Số TC
+CS100,Tin đại cương,5.9,2
+CS121,Ngôn ngữ lập trình,5.6,3
+CS122,Lập trình hướng đối tượng,8.0,3
+EC102,Nhập môn kinh tế học,5.1,2
+GE101,Tiếng Anh sơ cấp 1,7.1,2
+GE102,Tiếng Anh sơ cấp 2,5.5,2
+GE103,Tiếng Anh sơ cấp 3,5.0,2
+GE201,Tiếng Anh sơ trung cấp 1,4.3,2
+GE202,Tiếng Anh sơ trung cấp 2,4.8,2
+GE205,Tiếng Anh sơ trung cấp 3,5.8,2
+GE301,Tiếng Anh trung cấp 1,5.4,2
+GE303,Tiếng Anh trung cấp 2,1.9,2
+GE305,Tiếng Anh trung cấp 3,-1.0,2
+GJ101,Tiếng Nhật 1,7.9,2
+GJ102,Tiếng Nhật 2,5.1,2
+IM001,Kỹ năng CNTT cơ bản,5.0,0
+IM201,Kỹ năng soạn thảo VB (MS office),8.2,3
+IS325,Cơ sở dữ liệu phân tán,4.3,2
+MA101,"Logic, suy luận toán học và kỹ thuật đếm",6.6,3
+MA103,Số và cấu trúc đại số,5.4,2
+ML111,Triết học Mác – Lênin,7.5,2
+ML112,Kinh tế chính trị và CNXH khoa học,6.2,3
+ML202,Tư tưởng Hồ Chí Minh,8.3,2
+ML203,Đường lối cách mạng của Đảng CS Việt Nam,8.0,3
+NA151,Khoa học môi trường,7.3,2
+PG100,Giáo dục thể chất,7.8,4
+PG121,Giáo dục quốc phòng,6.5,4
+SC201,Kỹ năng giao tiếp và thuyết trình,7.8,2
+SE312,Kiểm thử và đảm bảo chất lượng phần mềm,8.7,3
+SH131,Pháp luật đại cương,5.6,2
+VL101,Tiếng Việt thực hành,7.2,2
+AC201,Nguyên lý kế toán,5.2,3
+AD206,Ẩm thực Việt Nam,8.5,3
+AD212,Phương pháp hùng biện và các thủ thuật tranh biện,7.0,3
+AD215,Ứng dụng PowerPoint,8.4,3
+AD216,Kỹ năng sống,9.5,3
+CF212,Cấu trúc dữ liệu,5.4,3
+CS110,Kỹ thuật số,7.2,2
+CS212,Kiến trúc máy tính,6.1,3
+CS224,Lập trình .Net,6.3,3
+CS315,Nguyên lý hệ điều hành,6.6,3
+IP403,Thực tập ngành Hệ thống thông tin,9.0,2
+IS222,Cơ sở dữ liệu,8.6,3
+IS314,Hệ thống thông tin,6.8,3
+IS315,Mô hình hóa quy trình nghiệp vụ,7.7,2
+IS316,Hạ tầng công nghệ thông tin,8.5,3
+IS322,Hệ quản trị cơ sở dữ liệu,5.8,3
+IS326,Khai phá dữ liệu,5.0,3
+IS327,Kho dữ liệu,6.3,3
+IS332,Phân tích thiết kế hướng đối tượng,6.4,3
+IS334,Quản lý dự án hệ thống thông tin,7.8,3
+IS383,Hệ thống thông tin nâng cao,7.5,2
+IS480,Kiến trúc doanh nghiệp,9.2,3
+MA110,Giải tích 1,4.0,3
+MA111,Giải tích 2,5.5,3
+MA120,Đại số tuyến tính,5.1,3
+MA231,Xác suất thống kê ứng dụng,5.2,4
+MI201,Toán rời rạc,6.2,3
+NW212,Mạng máy tính,7.4,2
+SE302,Công nghệ phần mềm,6.9,2
+SE487,CĐTN: Phát triển phần mềm,9.0,6
+SM201,Phương pháp luận nghiên cứu khoa học,8.8,3

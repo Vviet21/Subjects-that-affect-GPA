@@ -1,0 +1,62 @@
+Mã HP,Tên HP,Điểm,Số TC
+CS100A,Nhập môn khoa học máy tính,7.5,2
+CS121,Ngôn ngữ lập trình,5.5,3
+CS122,Lập trình hướng đối tượng,6.0,3
+EC101,Kinh tế học đại cương,6.0,3
+FN201A,Lý thuyết tài chính tiền tệ,5.0,2
+GE100,Tiếng Anh cho người mới bắt đầu,8.0,2
+GE101A,Tiếng Anh sơ cấp 1,6.0,2
+GE102A,Tiếng Anh sơ cấp 2,7.3,2
+GE201A,Tiếng Anh sơ trung cấp 1,6.2,2
+GE202A,Tiếng Anh sơ trung cấp 2,5.4,2
+GF101,Tiếng Pháp 1,7.0,2
+GF102,Tiếng Pháp 2,6.3,2
+IS223A,Cơ sở dữ liệu 2,5.0,2
+IS314,Hệ thống thông tin,-1.0,3
+MA100A,Toán 1,6.0,2
+MA110A,Giải tích 1A,7.0,2
+MA111A,Giải tích 2A,7.5,2
+MA120A,Đại số tuyến tính 1,5.0,2
+ML111,Triết học Mác – Lênin,7.8,2
+ML112,Kinh tế chính trị và CNXH khoa học,6.3,3
+ML202,Tư tưởng Hồ Chí Minh,6.5,2
+ML203,Đường lối cách mạng của Đảng CS Việt Nam,7.5,3
+NA151,Khoa học môi trường,10.0,2
+PG101,GDTC: Lý thuyết,10.0,1
+PG106,GDTC: Bóng bàn cơ bản,8.0,1
+PG121,Giáo dục quốc phòng,6.3,4
+SH131,Pháp luật đại cương,7.2,2
+AC201,Nguyên lý kế toán,8.0,3
+AC210,Kế toán doanh nghiệp,5.7,3
+AD211,Văn hóa Hà Nội,5.4,2
+BA101,Quản trị học,7.0,2
+CF212,Cấu trúc dữ liệu,5.0,3
+CF301,Ngôn ngữ hình thức và Otomat,-1.0,3
+CS110,Kỹ thuật số,6.0,2
+CS212,Kiến trúc máy tính,3.1,3
+CS223,Lập trình Java,0.0,3
+CS315,Nguyên lý hệ điều hành,-1.0,3
+CS316,Hệ điều hành Unix,5.3,3
+CS325,Lập trình PHP,0.0,3
+EC202,Kinh tế vi mô,6.8,2
+EC203,Kinh tế vĩ mô,5.4,2
+IS222,Cơ sở dữ liệu,6.4,3
+IS223A,Cơ sở dữ liệu 2,5.0,2
+IS314,Hệ thống thông tin,-1.0,3
+IS322,Hệ quản trị cơ sở dữ liệu,0.0,3
+IS332,Phân tích thiết kế hướng đối tượng,4.0,3
+IS333,Phân tích thiết kế hệ thống thông tin,6.5,2
+IS424,Lập trình cơ sở dữ liệu,-1.0,3
+MA110A,Giải tích 1A,7.0,2
+MA111A,Giải tích 2A,7.5,2
+MA120A,Đại số tuyến tính 1,5.0,2
+MA212,Phương trình vi phân,6.5,2
+MA231,Xác suất thống kê ứng dụng,5.0,4
+MI201,Toán rời rạc,0.0,3
+MI312,Đồ họa,6.5,2
+MI414,Giao diện người máy,7.0,2
+MK201,Nguyên lý marketing,6.3,2
+NW212,Mạng máy tính,5.3,2
+PE201,Tiếng Anh trong tin học 1A,6.6,2
+PE302,Tiếng Anh trong tin học 1B,6.1,2
+SE302,Công nghệ phần mềm,0.0,2

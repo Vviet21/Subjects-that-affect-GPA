@@ -1,0 +1,53 @@
+Mã HP,Tên HP,Điểm,Số TC
+CF321A,Xử lý tín hiệu số,1.0,2
+CS100A,Nhập môn khoa học máy tính,5.9,2
+CS121,Ngôn ngữ lập trình,0.0,3
+CS122,Lập trình hướng đối tượng,0.0,3
+EC101,Kinh tế học đại cương,0.0,3
+GE100,Tiếng Anh cho người mới bắt đầu,5.0,2
+GE101A,Tiếng Anh sơ cấp 1,5.1,2
+GE102A,Tiếng Anh sơ cấp 2,-1.0,2
+GE201A,Tiếng Anh sơ trung cấp 1,0.0,2
+GE202A,Tiếng Anh sơ trung cấp 2,-1.0,2
+GF101,Tiếng Pháp 1,-1.0,2
+GF102,Tiếng Pháp 2,0.0,2
+MA100A,Toán 1,5.0,2
+ML111,Triết học Mác – Lênin,5.6,2
+ML112,Kinh tế chính trị và CNXH khoa học,6.3,3
+ML202,Tư tưởng Hồ Chí Minh,5.5,2
+ML203,Đường lối cách mạng của Đảng CS Việt Nam,7.8,3
+NA151,Khoa học môi trường,5.0,2
+PG101,GDTC: Lý thuyết,5.0,1
+PG102,GDTC: Thể dục cổ truyền cơ bản,0.0,1
+PG104,GDTC: Cầu lông cơ bản,6.5,1
+PG106,GDTC: Bóng bàn cơ bản,9.2,1
+PG115,GDTC: Bóng chuyền cơ bản,-1.0,1
+PG121,Giáo dục quốc phòng,6.0,4
+SH131,Pháp luật đại cương,6.0,2
+AD211,Văn hóa Hà Nội,6.5,2
+CS110,Kỹ thuật số,8.0,2
+CS210B,Thực hành điện tử số,6.0,2
+CS211,Vi điều khiển và ứng dụng,6.4,3
+CS212A,Kiến trúc máy tính 1,5.0,2
+CS212B,Kiến trúc máy tính 2,5.1,2
+CS311A,Hợp ngữ,2.0,2
+CS315,Nguyên lý hệ điều hành,5.5,3
+CS316,Hệ điều hành Unix,0.0,3
+CS324,Kỹ thuật lập trình,0.0,2
+CS411,Ứng dụng KT vi xử lý trong đo lường và điều khiển,8.0,2
+ET220,Lý thuyết mạch,0.0,3
+IS222,Cơ sở dữ liệu,0.9,3
+MA110A,Giải tích 1A,7.5,2
+MA111A,Giải tích 2A,5.0,2
+MA120A,Đại số tuyến tính 1,0.0,2
+MA212,Phương trình vi phân,5.0,2
+MA231,Xác suất thống kê ứng dụng,0.0,4
+MI201,Toán rời rạc,0.0,3
+NW212,Mạng máy tính,5.0,2
+NW312A,Thiết kế quản trị mạng,0.2,4
+NW332A,An toàn mạng,0.6,4
+TC311,Kỹ thuật truyền tin,5.0,3
+TC313A,Kỹ thuật truyền dẫn quang,6.5,2
+TC314A,Truyền dẫn và chuyển mạch số,5.5,2
+TC422,Thông tin di động và vệ tinh,9.0,2
+TC458,CĐTN: Các giải pháp mạng đô thị,7.2,6

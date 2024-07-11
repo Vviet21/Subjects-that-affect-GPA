@@ -1,0 +1,55 @@
+Mã HP,Tên HP,Điểm,Số TC
+CF212,Cấu trúc dữ liệu,10.0,3
+CS100,Tin đại cương,6.9,2
+CS101,Công dân số,9.3,2
+CS110,Kỹ thuật số,10.0,2
+CS121,Ngôn ngữ lập trình,5.3,3
+CS122,Lập trình hướng đối tượng,10.0,3
+CS212,Kiến trúc máy tính,6.8,3
+EC102,Nhập môn kinh tế học,8.7,2
+GE101,Tiếng Anh sơ cấp 1,5.1,2
+GE102,Tiếng Anh sơ cấp 2,5.6,2
+GE103,Tiếng Anh sơ cấp 3,7.5,2
+GE201,Tiếng Anh sơ trung cấp 1,7.1,2
+GE202,Tiếng Anh sơ trung cấp 2,7.4,2
+GE205,Tiếng Anh sơ trung cấp 3,4.8,2
+GE301,Tiếng Anh trung cấp 1,4.8,2
+GE303,Tiếng Anh trung cấp 2,4.4,2
+GE305,Tiếng Anh trung cấp 3,4.2,2
+GF101,Tiếng Pháp 1,6.2,2
+GJ101,Tiếng Nhật 1,9.7,2
+GJ102,Tiếng Nhật 2,9.7,2
+IP405,Thực tập ngành Trí tuệ nhân tạo,8.0,3
+IS222,Cơ sở dữ liệu,6.7,3
+IT320,Phát triển ứng dụng với Python,8.3,3
+MA101,"Logic, suy luận toán học và kỹ thuật đếm",6.9,3
+MA110,Giải tích 1,6.1,3
+MA111,Giải tích 2,7.7,3
+MA120,Đại số tuyến tính,8.5,3
+MA230,Xác suất,7.2,3
+MA234,Thống Kê,6.5,2
+MI201,Toán rời rạc,7.6,3
+MI322,Trí tuệ nhân tạo và công nghệ tri thức,7.0,3
+ML113,Triết học Mác - Lênin,9.6,3
+ML114,Kinh tế chính trị Mác - Lênin,8.7,2
+ML115,Chủ nghĩa xã hội khoa học,9.5,2
+ML202,Tư tưởng Hồ Chí Minh,9.2,2
+ML204,Lịch sử Đảng,7.6,2
+NA151,Khoa học môi trường,8.6,2
+NW212,Mạng máy tính,6.1,2
+SH131,Pháp luật đại cương,9.2,2
+VL101,Tiếng Việt thực hành,9.1,2
+AD216,Kỹ năng sống,9.9,3
+AI220,Các công cụ lập trình trí tuệ nhân tạo,10.0,3
+AI310,Học sâu,7.5,3
+AI320,Xử lý ngôn ngữ tự nhiên,7.9,3
+AI321,Thị giác máy tính,9.7,3
+AI485,CĐTN: Ngành Trí tuệ nhân tạo,0.0,6
+CF211,Phân tích và thiết kế thuật toán,9.3,2
+CS320,Học máy,4.8,3
+CS321,Nhập môn khoa học dữ liệu,6.2,2
+IS314,Hệ thống thông tin,9.0,3
+IS326,Khai phá dữ liệu,8.0,3
+IS330,Dữ liệu lớn,9.1,2
+MA238,Thống kê nâng cao,6.6,3
+MI302,Tối ưu hóa,2.8,2

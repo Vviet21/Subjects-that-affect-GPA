@@ -1,0 +1,59 @@
+Mã HP,Tên HP,Điểm,Số TC
+CS100A,Nhập môn khoa học máy tính,6.9,2
+CS121,Ngôn ngữ lập trình,5.9,3
+CS122,Lập trình hướng đối tượng,5.0,3
+EC101,Kinh tế học đại cương,6.3,3
+FN201A,Lý thuyết tài chính tiền tệ,8.0,2
+GE100,Tiếng Anh cho người mới bắt đầu,7.9,2
+GE101A,Tiếng Anh sơ cấp 1,7.0,2
+GE102A,Tiếng Anh sơ cấp 2,5.2,2
+GE201A,Tiếng Anh sơ trung cấp 1,5.9,2
+GI101,Tiếng Ý 1,6.0,2
+GI102,Tiếng Ý 2,5.0,2
+GJ101,Tiếng Nhật 1,0.0,2
+IS101,Tin văn phòng,6.8,3
+MA102,Toán cơ sở,5.2,3
+ML111,Triết học Mác – Lênin,6.4,2
+ML112,Kinh tế chính trị và CNXH khoa học,6.0,3
+ML202,Tư tưởng Hồ Chí Minh,6.0,2
+ML203,Đường lối cách mạng của Đảng CS Việt Nam,8.0,3
+NA151,Khoa học môi trường,6.0,2
+NW312A,Thiết kế quản trị mạng,7.0,4
+NW322A,Lập trình mạng,8.0,4
+PG100,Giáo dục thể chất,7.8,4
+PG121,Giáo dục quốc phòng,6.7,4
+SH131,Pháp luật đại cương,5.0,2
+AC201,Nguyên lý kế toán,5.0,3
+AC210,Kế toán doanh nghiệp,5.0,3
+AD211,Văn hóa Hà Nội,5.7,2
+BA101,Quản trị học,6.0,2
+BA313,Quản trị chiến lược,7.5,3
+BK201,Ngân hàng thương mại 1,6.8,3
+CS110,Kỹ thuật số,6.5,2
+CS315,Nguyên lý hệ điều hành,0.0,3
+CS316,Hệ điều hành Unix,7.3,3
+CS325,Lập trình PHP,8.5,3
+EC202,Kinh tế vi mô,7.5,2
+EC203,Kinh tế vĩ mô,6.6,2
+FN211D,Nhập môn tài chính doanh nghiệp,5.0,2
+FN221,Tài chính công,6.8,2
+IS222,Cơ sở dữ liệu,5.0,3
+IS322,Hệ quản trị cơ sở dữ liệu,5.0,3
+IS332,Phân tích thiết kế hướng đối tượng,7.2,3
+IS333,Phân tích thiết kế hệ thống thông tin,6.5,2
+IS382,Công nghệ thông tin trong doanh nghiệp,7.3,2
+MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",6.5,4
+MA231,Xác suất thống kê ứng dụng,6.0,4
+MA241,Toán tài chính,5.0,2
+MI414,Giao diện người máy,6.0,2
+MK201,Nguyên lý marketing,6.8,2
+MK423,Quan hệ cộng đồng,7.1,2
+NW212,Mạng máy tính,7.5,2
+NW312A,Thiết kế quản trị mạng,7.0,4
+NW332A,An toàn mạng,8.0,4
+NW439,CĐTN: An toàn mạng,9.0,6
+PE201,Tiếng Anh trong tin học 1A,7.0,2
+PE302,Tiếng Anh trong tin học 1B,6.0,2
+PE303,Tiếng Anh trong tin học 2A,6.2,2
+PE404,Tiếng Anh trong tin học 2B,7.0,2
+SE302,Công nghệ phần mềm,7.1,2
